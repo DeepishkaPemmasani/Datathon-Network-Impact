@@ -1,0 +1,1521 @@
+,Author,Author,Fork,Fork
+Gender - Author,female,male,female,male
+Publication Title,,,,
+10 Proportional Assist Ventilation and Neurally Adjusted Ventilatory Assist (PC-CSVr),1,0,0,1
+100 Two Thirds of Patients With Acute Coronary Syndrome in High Risk Chest Pain Have a Negative First Conventional Troponin,1,0,1,0
+1007: DEVELOPMENT OF TELE-ICU MULTIDIMENSIONAL SEVERITY ADJUSTED PIRO SEPSIS MODEL,0.333333333,0.666666667,1,0
+1010: DE-ESCALATION OF DEXMEDETOMIDINE-BASED SEDATION UTILIZING CLONIDINE IN MEDICAL AND SURGERY ICUS,0.6,0.4,1,0
+1024: DESTINED FOR FAILURE? RISK FACTORS FOR ARTERIAL LINE LOSS IN SURGICAL ICU PATIENTS,0.6,0.4,0,1
+1025: CENTRAL VENOUS ACCESS BY ADVANCED PRACTICE PROVIDERS IN THE CRITICAL CARE SETTING,0.5,0.5,0.5,0.5
+1028: IMPACT OF RESTARTING HOME NEUROPSYCHIATRIC MEDICATIONS ON SEDATION OUTCOMES IN MEDICAL ICU PATIENTS,1,0,1,0
+102: EXPLORING COSTS OF TELE-INTENSIVIST DELIVERY MODELS WITH AND WITHOUT 24/7 BEDSIDE INTENSIVISTS,0.285714286,0.714285714,1,0
+1041: ICU Management of Patients undergoing Cytoreductive surgery and HIPEC for Peritoneal Carcinomatosis,0.285714286,0.714285714,0,1
+1046: Predicting Deterioration in Hospitalized Children Using Machine Learning,0.625,0.375,0,1
+1047: EVALUATION OF STRESS ULCER PROPHYLAXIS INDICATIONS AT A LARGE ACADEMIC MEDICAL CENTER,0.2,0.8,1,0
+"1088: IMPLEMENTATION OF AN AWAKENING, BREATHING, AND MOBILITY PROGRAM FOR MECHANICALLY VENTILATED PATIENTS",0.428571429,0.571428571,1,0
+1090: ARE THE CURRENT DEFINITIONS USED TO DETECT SEPSIS ADEQUATE FOR PREDICTION OF SEPSIS SYNDROME?,0.6,0.4,1,0
+1093: IMPACT OF PRONING ON PARALYZED PATIENTS WITH ACUTE RESPIRATORY DISTRESS SYNDROME,0.5,0.5,1,0
+1099: ACUTE RESPIRATORY DISTRESS SYNDROME AND PERSISTENT RIGHT VENTRICULAR DYSFUNCTION,0.2,0.8,1,0
+1130: MORTALITY AND CRITICAL DETERIORATION IN HOSPITALIZED CHILDREN,0.4,0.6,0,1
+1133: UTILITY OF LONGITUDINAL TRENDS FOR PREDICTING DETERIORATION IN HOSPITALIZED CHILDREN,0.666666667,0.333333333,0,1
+1138: CHARACTERISTICS AND OUTCOMES OF PATIENTS SELECTED FOR VENOVENOUS ECMO AT CLEVELAND CLINIC,0.375,0.625,0,1
+1138: TRAUMA PATIENTS WARRANT UPPER AND LOWER EXTREMITY VENOUS DUPLEX ULTRASOUND SURVEILLANCE,0.4,0.6,0,1
+1140: PAIN ASSESSMENT AND SEDATION DELIVERY IN MECHANICALLY VENTILATED PATIENTS: CAN WE DO IT BETTER?,0.375,0.625,1,0
+1154: TELETRIAGE POSITIVELY INFLUENCES THROUGHPUT TIMES AND EXPEDITES OPTIMAL TIME TO CRITICAL CARE,0.428571429,0.571428571,1,0
+1157: HIGH-FREQUENCY OSCILLATORY VENTILATION AS A RESCUE STRATEGY FOR PATIENTS WITH RESPIRATORY FAILURE,0,1,0,1
+1171: ANGIOEDEMA IN THE ICU: EPIDEMIOLOGY AND OUTCOMES AT A TERTIARY CARE CENTER,0.6,0.4,0,1
+1179: NOVEL ECHOCARDIOGRAPHIC PHENOTYPES FOR ASSESSMENT OF SYSTOLIC FUNCTION IN PATIENTS WITH SEPSIS,0.5,0.5,1,0
+1186: IMPACT OF ECHOCARDIOGRAPHY ON IN-HOSPITAL MORTALITY IN ADULT SEPSIS AND SEPTIC SHOCK,1,0,1,0
+1186: WORKPLACE VIOLENCE PILOT STUDY: RESPONSE ALGORITHMS AND OTHER MEASURES FOR STAFF SAFETY,0.875,0.125,0,1
+1192: DRIVING PRESSURE AND MORTALITY IN MEDICAL AND SURGICAL ICU PATIENTS AFTER PARALYTIC ADMINISTRATION,0.444444444,0.555555556,1,0
+1205: ACCEPTABILITY OF AN ULTRASOUND AND BLADDER SCANNER PROTOCOL TO REDUCE URINARY CATHETER UTILIZATION,0.5,0.5,0,1
+1206: BETA-LACTAM DOSING IN PATIENTS WITH SEPSIS AND AKI: A MULTICENTER OBSERVATIONAL STUDY,0.363636364,0.636363636,1,0
+1211: SACRED PAUSE INITIATIVE IN THE ICU: A SURVEY OF ICU PHYSICIANS AND NURSES,0.2,0.8,0,1
+1216: ASSOCIATION OF OPTIMAL PATIENT-CENTERED OUTCOMES AND TELE-ICU FOR PROGRESSIVE CARE CARDIOLOGY,0.5,0.5,1,0
+1219: OPTIMAL PATIENT-CENTERED OUTCOMES FOR HIGHER-ACUITY CHEST AND EPIGASTRIC PAIN WITH TELEMEDICINE,0.5,0.5,1,0
+1229-P: Clinical Characteristics and Hospital Care among Patients with Diabetic Ketoacidosis,0,1,0,1
+122: ICU ‚ÄúHOTEL ROUNDS‚Äù AS A QUALITY IMPROVEMENT TOOL: CHANGING PRACTICE IN A MEDICAL INTENSIVE CARE UNIT,0.333333333,0.666666667,1,0
+1234: MEDICAL EMERGENCY TEAM CALLS TO WARD PATIENTS AFTER DOWN-TRANSFER FROM AN ICU,0.666666667,0.333333333,1,0
+1239: Dynamic Assessments of Fluid Responsiveness Reduce Excess Fluid Administration,0.375,0.625,1,0
+1243: Antibiotic Delays in Septic Patients Transferred From the Regular Floor to the Intensive Care Unit,0.375,0.625,0,1
+1255: INTERHOSPITAL VARIATION IN THE REINITIATION OF VASOPRESSOR THERAPIES,0.666666667,0.333333333,0,1
+125: DEVELOPMENT OF CRITICAL CARE DATAMART FOR EFFECTIVENESS RESEARCH AND POPULATION HEALTH TRENDS,0.285714286,0.714285714,1,0
+1260: STANDARDIZING APPROACHES TO COMPLETION OF ADVANCE DIRECTIVES IN MEDICAL INTENSIVE CARE,0.285714286,0.714285714,0,1
+1269: acute physiology and chronic health evaluation IV in septic patients with and without cancer,0.428571429,0.571428571,0,1
+1271: BEDSIDE US AND BLADDER SCANNER-BASED PROTOCOL SAFELY REDUCES URINARY CATHETER USE IN KIDNEY INJURY,0.5,0.5,0,1
+1272: Acute diaphragm paralysis after arterial embolization: Utilization of ultrasonography for diagnosis,0,1,0,1
+1274-PUB: Clinical Comparison of Hospitalized Patients with Diabetic Ketoacidosis Admitted to Intensive Care Unit (ICU) vs. Non-ICU Areas,0,1,0,1
+1276: MEASURING BLADDER VOLUMES IN THE ICU: IS ACCURACY DEPENDENT ON DEVICE AND CLINICIAN?,0.4,0.6,0,1
+1287: A RETROSPECTIVE COHORT STUDY OF LAB USAGE IN THE ICU: DO WE NEED TO LEARN TO ASK FEWER QUESTIONS?,0.5,0.5,0,1
+1298: A Physiology-Driven Machine Learning Model for Traumatic Brain Injury Outcome,0,1,0,1
+1313: ALTERNATIVE PHARMACOLOGIC AGENTS VERSUS BENZODIAZEPINES FOR ALCOHOL WITHDRAWAL IN TRAUMA PATIENTS,1,0,0,1
+1314: PROVIDER-DRIVEN PROTOCOL TO IMPROVE ADVANCE DIRECTIVE COMPLETION IN THE INTENSIVE CARE UNIT,0.25,0.75,0,1
+131: EFFECT OF ENVIRONMENT OF CARE WITHIN PIRO SEPSIS MODEL: IS TELE-HEALTH THE ANSWER FOR HEALTH POLICY?,0.333333333,0.666666667,1,0
+134: LONG-TERM FOLLOW-UP OF ACUTE ORGAN FAILURE IN SURVIVORS OF CRITICAL ILLNESS DUE TO COVID-19,0.571428571,0.428571429,0,1
+1359: EXPLORING LOS IN TELE-INTENSIVIST DELIVERY MODELS WITH AND WITHOUT 24/7 BEDSIDE INTENSIVISTS,0.285714286,0.714285714,1,0
+1363: OUTCOMES AFTER IN-HOSPITAL CARDIAC ARREST: AN INSIGHT FROM THE MEDICAL INTENSIVE CARE UNIT,0.1,0.9,0,1
+1366: IMPLEMENTATION OF A PERIPHERAL NOREPINEPHRINE PROTOCOL IN A MEDICAL INTENSIVE CARE UNIT,0.8,0.2,0,1
+1367: IMPLEMENTATION OF A PERIPHERAL NOREPINEPHRINE PROTOCOL IN A MICU: PRELIMINARY RESULTS,0.8,0.2,0,1
+137: Thromboembolic Events and Role of Point-of-Care Ultrasound in COVID-19 Patients in the ICU,0.285714286,0.714285714,0,1
+1381: CHARACTERIZING FLUID AND VASOPRESSOR USE IN REDUCED EJECTION FRACTION: REANALYSIS OF VOLUME-CHASERS,0.666666667,0.333333333,1,0
+1403: DIALYSIS DISEQUILIBRIUM SYNDROME IN A CRITICALLY ILL PATIENT WITH STAPHYLOCOCCUS AUREUS BACTEREMIA,0.6,0.4,1,0
+1404: PROTOCOLIZED DIURESIS-GUIDED VOLUME DE-RESUSCITATION IN THE INTENSIVE CARE UNIT,0.5,0.5,1,0
+1406: ASSESSING THE IMPACT OF ALBUMIN USE ON VASOPRESSOR DURATION AND MORTALITY IN SEPTIC SHOCK,0.5,0.5,1,0
+1407: RENAL EFFECTS OF VASOPRESSIN ON CIRRHOTIC PATIENTS WITH SEPTIC SHOCK,0.666666667,0.333333333,1,0
+1419: THE IMPACT OF EARLY OR LATE INITIATION OF RRT ON 28-DAY OUTCOMES OF PATIENTS WITH SEPSIS-INDUCED AKI,0.25,0.75,1,0
+1420: FLUID RESPONSIVENESS AND DIURETIC USE IN PATIENTS WITH SEPTIC SHOCK,0.375,0.625,1,0
+1421: NOREPINEPHRINE EQUIVALENT DOSE IS STRONGLY ASSOCIATED WITH IN-HOSPITAL MORTALITY IN SEPTIC SHOCK,0.6,0.4,1,0
+1425: EARLY-VERSUS LATE-ONSET SEPTIC SHOCK: DOES IT REALLY MATTER?,0.6,0.4,1,0
+"1431: ORGAN FAILURE DATA OVER TIME IN THE CRITICALLY ILL: AT WHAT COST, AND TO WHAT BENEFIT?",0.5,0.5,1,0
+1437: DISSEMINATED HSV-2 INFECTION CAUSING MSOF: EARLY ANTIVIRAL THERAPY CAN BE LIFESAVING,0,1,0,1
+1454: ASSOCIATION OF THIAMINE ADMINISTRATION WITH OUTCOMES IN SEPTIC SHOCK PATIENTS,0,1,1,0
+1474: ASSOCIATION OF ECHOCARDIOGRAPHIC PROFILES AND RESPONSE TO VASOPRESSIN IN PATIENTS WITH SEPTIC SHOCK,0.5,0.5,1,0
+1509: TRENDS IN IN-HOSPITAL MORTALITY OF PATIENTS HOSPITALIZED WITH SEPTIC SHOCK WITH MALIGNANCY,0.333333333,0.666666667,1,0
+1518: ANALYSIS OF PULSE OXIMETRY DATA TO ESTIMATE HEART RATE VARIABILITY IN HIGH-RISK PEDIATRIC PATIENTS,0,1,0,1
+1518: Analysis Of Pulse Oximetry Data To Estimate Heart Rate Variability In High-risk Pediatric Patients,0,1,0,1
+1567: RELATIONSHIP BETWEEN PRE-ICU LENGTH OF STAY AND FINAL DISPOSITION AMONG ICU SEPSIS PATIENTS,0.666666667,0.333333333,1,0
+1568: SEPSIS WARDS OUTCOMES RESEARCH DECISION SUPPORT (SWORDS): COMPARISON OF WARD TO THOSE REQUIRING ICU,0.666666667,0.333333333,1,0
+1569: ASSOCIATION BETWEEN PRIMARY ORGAN/SYSTEM DIAGNOSES AND FINAL DISPOSITION AMONG SEPSIS PATIENTS,0.666666667,0.333333333,1,0
+1591: OUTCOME ANALYSIS OF PATIENTS WITH AORTIC STENOSIS WITH SEPTIC SHOCK,0.5,0.5,0.5,0.5
+"1631: THE RELATIONSHIP BETWEEN QSOFA SCORE, PRELOAD FUNCTIONAL STATUS, AND PATIENT OUTCOME",0.294117647,0.705882353,1,0
+1640: EFFECT OF PHENYLEPHRINE PUSHES PRIOR TO CONTINUOUS NOREPINEPHRINE IN PATIENTS WITH SEPTIC SHOCK,0.333333333,0.666666667,0,1
+1711: MORTALITY IN MEDICAL PATIENTS WITH HEMORRHAGIC SHOCK IS ASSOCIATED WITH HIGHER BLOOD GLUCOSE LEVEL,0,1,0,1
+175: COMPARISON OF NASAL AND FOREHEAD OXIMETRY ACCURACY AND PRESSURE INJURY IN CRITICALLY ILL PATIENTS,0.5,0.5,0,1
+1794: AN UNUSUAL CASE OF SALMONELLA CAUSING PNEUMONIA AND SEPTIC SHOCK IN AN IMMUNOCOMPETENT PATIENT,0.75,0.25,1,0
+183: VARIATION IN USE OF HIGH-FLOW NASAL CANNULA AND NONINVASIVE VENTILATION IN COVID-19,0.526315789,0.473684211,1,0
+1866: ANGIOEDEMA FROM COMBINATION SITAGLIPTIN AND LISINOPRIL IN A DIABETIC PATIENT,1,0,1,0
+19: A MACHINE LEARNING-BASED PREDICTION OF CARDIAC ARREST OUTCOME USING A LARGE MULTICENTER DATABASE,0.181818182,0.818181818,0,1
+1The epidemiology of critical illness brain dysfunction,0,1,0,1
+2019 year in review: patient-ventilator synchrony,0,1,0,1
+202: RACIAL DIFFERENCES IN COMMERCIAL MONITORING SOFTWARE DETECTION OF ATRIAL FIBRILLATION,0.5,0.5,1,0
+20: METABOLIC SYNDROME AND ARDS IN COVID-19,0.473684211,0.526315789,1,0
+21: Trends in Vital Signs Predict Critical Deterioration in Pediatric Intensive Care Unit Transfers,0.5,0.5,0,1
+2317-PUB: Diabetic Ketoacidosis in Adult Type 1 Diabetes Mellitus Patients on Insulin Pumps,0,1,0,1
+238: EFFECT OF SIMULATION TRAINING ON INTUBATION PRACTICES OF FELLOWS IN A TRAINING PROGRAM,0.25,0.75,0,1
+245: CHANGES IN T-CELL SUBSETS ARE CORRELATED WITH MODS SCORE CHANGES AND NUTRITIONAL STATUS.,0,1,0,1
+257: ECMO TO THE RESCUE OF A PATIENT WITH FAT EMBOLISM SYNDROME,0,1,0,1
+279: D-DIMER-GUIDED ANTICOAGULATION PROPHYLAXIS THERAPY IN COVID-19 IS SAFE AND PREVENTS THROMBOSIS,0.230769231,0.769230769,0,1
+27: Machine Learning Prediction of Intensive Care Unit Delirium,0.571428571,0.428571429,0,1
+288: COVID-19-ASSOCIATED PULMONARY MUCORMYCOSIS IN POSTPARTUM ECMO PATIENT TREATED WITH SALVAGE THERAPY,0,1,0,1
+290: CARDIOPULMONARY ARREST IN THE MEDICAL ICU SETTING: A REVIEW OF ACLS PROTOCOL ADHERENCE,0.4,0.6,0,1
+301 use of transfer learning to improve external validity of a machine-learning algorithm to predict septic shock in the emergency department,1,0,1,0
+"313: Characteristics, Outcomes, and 60-Day Mortality of Acute Kidney Injury in COVID-19 Patients in ICU",0.428571429,0.571428571,0,1
+318: RISK FACTORS FOR DIABETIC KETOACIDOSIS TREATMENT FAILURE IN MEDICALLY CRITICALLY ILL PATIENTS,0.5,0.5,1,0
+319: REFRACTORY HYPOXEMIA IN ACUTE RESPIRATORY DISTRESS SYNDROME: SYSTEMATIC REVIEW OF DIAGNOSTIC CRITERIA,0.5,0.5,0,1
+332: ENTERAL NUTRITION ADMINISTRATION IN THE ICU: ACHIEVING GOALS WITH BETTER STRATEGIES,0.571428571,0.428571429,0,1
+333: UTILITY OF LUNG ULTRASOUND BEFORE AND AFTER CENTRAL VENOUS CATHETER PLACEMENT TO RULE OUT PNEUMOTHORAX,0.428571429,0.571428571,0,1
+337: ONE-YEAR OUTCOMES AFTER IMPLEMENTATION OF AN ICU EARLY MOBILITY PROTOCOL,0.666666667,0.333333333,0,1
+33: DEVELOPMENT OF AN ICU-BASED PHARMACY TECHNICIAN TO IMPROVE THE MEDICATION DISTRIBUTION PROCESS,0,1,1,0
+35^ e Congres de l'association de neuro-anesthesie reanimation de langue francaise,1,0,0,1
+35th Congress of the French association of neuro-anesthesiology and critical care,1,0,0,1
+"361: Epidemiology, Complications, and Outcomes of Stress Cardiomyopathy in Critical Care",0.333333333,0.666666667,0,1
+369: A DESCRIPTION OF PATIENTS IN ANHEPATIC PHASE POST PRIMARY GRAFT NON-FUNCTION,0.428571429,0.571428571,0,1
+371: DETERMINING THE NEEDS OF SURVIVORS OF PEDIATRIC CRITICAL ILLNESS,0.714285714,0.285714286,0,1
+386: Incidence of Diastolic Dysfunction and Right Ventricular Dysfunction in Severe Sepsis & Septic Shock,0.333333333,0.666666667,1,0
+386: LEGIONELLA IN THE ICU: A DECADE OF EXPERIENCE AT A TERTIARY CARE CENTER,0.5,0.5,0,1
+387: PERCEPTIONS OF TELEVISION-BASED EDUCATION IN THE ICU: A COMPARISON BETWEEN PATIENTS AND PROVIDERS,0.25,0.75,1,0
+388: EFFECTIVENESS OF AN INTENSIVE PROGRAM TO TEACH COMMUNICATION SKILLS TO CRITICAL CARE FELLOWS,0.714285714,0.285714286,0,1
+3D High-Resolution Whole-Brain Perfusion Measurment Using Pseudo-Continuous ASL at Multiple Post-Labeling Delays,0,1,0,1
+400: Predicting delirium risk for the following 24 hours in critically ill patients using deep learning,0.333333333,0.666666667,1,0
+402: EXPLORING MORTALITY IN TELE-INTENSIVIST DELIVERY MODELS WITH AND WITHOUT 24/7 BEDSIDE INTENSIVISTS,0.285714286,0.714285714,1,0
+"420: SIMULATION TRAINING TO PREPARE PHARMACY RESIDENTS FOR HIGH-STRESS, HIGH-IMPACT CLINICAL SCENARIOS",0,1,1,0
+"421: EMERGENCE OF ACUTE GI ILLNESS IN PREDISPOSITION, INSULT, RESPONSE, OUTCOMES (PIRO) SEPSIS MODEL",0.333333333,0.666666667,1,0
+42: VANCOMYCIN AND PIPERACILLIN-TAZOBACTAM OR CEFEPIME AND SEPSIS-ASSOCIATED AKI TRAJECTORY,0.333333333,0.666666667,1,0
+432: DETRIMENTAL EFFECT OF SUPPLEMENTAL DEXTROSE INFUSIONS IN THE INTENSIVE CARE UNIT,0.666666667,0.333333333,1,0
+437: DIFFERENCE IN PREVALENCE OF PATIENT-VENTILATOR ASYNCHRONY DURING MECHANICAL VENTILATION BETWEEN MODES,0.5,0.5,0,1
+448: Retrospective Evaluation of Two Diabetic Ketoacidosis Protocols in Hospitalized Patients,1,0,1,0
+452: COMPARISON OF HIGH DOSE VERSUS STANDARD DOSE OSELTAMIVIR IN CRITICALLY ILL PATIENTS WITH INFLUENZA,1,0,1,0
+464: Computational Endotypes in ICU Stratum Traumatic Brain Injury Patients,0,1,0,1
+472: ECMO SURVIVORS CLINIC: ASSESSMENT OF PSYCHOLOGIC AND PULMONARY FUNCTION IN VV ECMO SURVIVORS,0.25,0.75,0,1
+478: IMPACT OF THE DURATION OF N-ACETYLCYSTEINE FOR NON-ACETAMINOPHEN-INDUCED ACUTE LIVER FAILURE,0.571428571,0.428571429,0,1
+485: Hypertriglyceridemia-Induced Pancreatitis in ICU: Complications and Outcomes in a 26-Patient Series,0,1,0,1
+490: PREDICTING INTENSIVE CARE READMISSION AMONG HOSPITALIZED CHILDREN,0.5,0.5,0,1
+492: The Neighborhood Effect of Critical Events in Pediatric ICU Patients,0.25,0.75,0,1
+49: USE OF SESSION-SPECIFIC HASHTAGS TO ENHANCE THE REACH OF THE CRITICAL CARE CONGRESS IN SOCIAL MEDIA,0.375,0.625,1,0
+504: PERICARDIAL TAMPONADE AND OBSTRUCTIVE SHOCK: COMPLICATION OF TENECTEPLASE FOR ACUTE ISCHEMIC STROKE,0.666666667,0.333333333,0,1
+539â€“Wearable Devices Can Predict Disease Activity in Inflammatory Bowel Disease Patients,0,1,0,1
+540: Pressure Ulcer Incidence with Patients Wearing Nasal/Oral Compared to Full Face NIV Masks,0.625,0.375,0,1
+556: USER-ENGAGED DESIGN OF A GRAPHICAL USER INTERFACE FOR INSTABILITY DECISION SUPPORT IN THE ICU,0.571428571,0.428571429,1,0
+"566: Effect of Early Enteral Nutrition on Muscle Size, Quality, and Strength in Critically Ill Patients",0.75,0.25,1,0
+569: A COMPARISON BETWEEN ARTIFICIAL INTELLIGENT ALGORITHMS AND CLINICIANS IN PREDICTING ICU DISCHARGES,0.142857143,0.857142857,0,1
+586: EHRLICHIOSIS PRESENTING AS SEVERE SEPSIS AND MENINGOENCEPHALITIS IN AN IMMUNOCOMPETENT ADULT,1,0,1,0
+593: PERSISTENT RHABDOMYOLYSIS FOLLOWING LIVER TRANSPLANTATION FOR EXERTIONAL HEATSTROKE,0.5,0.5,0,1
+597: A Unique Case of Methemoglobinemia in the Setting of Topical Lidocaine,0.4,0.6,0,1
+666: identifying pressure injury risk factors in adult critical care patients,0.333333333,0.666666667,0,1
+667: Non-Pharmacological Delirium Prevention Interventions in the Medical ICU,0.333333333,0.666666667,0,1
+668: POST-OPERATIVE INTRA-ABDOMINAL SEPSIS PRESENTING WITH A CLINICAL PICTURE MASQUERADING AS PULMONARY EMBOLISM,0.3,0.7,0,1
+"674: Same Tools, Different Results: Physician and Nurse Assessments of Mental Status in the Medical ICU",0.333333333,0.666666667,0,1
+682: DEFINING ‚ÄúFLOW STARVATION‚Äù IN VOLUME CONTROL MECHANICAL VENTILATION,0.25,0.75,0,1
+6: A Machine Learning Model to Predict Brain Trauma Outcome in the Intensive Care Unit,0.5,0.5,0,1
+701: REDUCING TIDAL VOLUME BY INCREASING FREQUENCY: A SIMULATION-BASED VENTILATOR PERFORMANCE COMPARISON,0.333333333,0.666666667,0,1
+724: Evaluation of a Comfort Measures Only Computer Order Entry-set on Improving Care at the End of Life,0.25,0.75,0,1
+743: Computational Endotypes of ICU Delirium,0.571428571,0.428571429,0,1
+744: Gastric Reflux: Association with Aspiration and Oral Secretion pH as Marker of Reflux,0.2,0.8,0,1
+745: FEVER BURDEN AFTER SUBARACHNOID HEMORRHAGE AND THE INCREASED USE OF ANTIBIOTICS,0.5,0.5,1,0
+748: THIAMINE BLOOD LEVELS ARE ASSOCIATED WITH ILLNESS SEVERITY BUT NOT DELIRIUM IN CRITICAL ILLNESS,0.8,0.2,1,0
+764: ASSOCIATION BETWEEN ICU RISK PREDICTION SCORES AND ICU NEEDS AMONG ACUTE ISCHEMIC STROKE PATIENTS,0.5,0.5,1,0
+765: CLINICAL CHARACTERISTICS AND HOSPITAL OUTCOMES AMONG YOUNG ACUTE ISCHEMIC STROKE PATIENTS,0.5,0.5,1,0
+767: OPTIMAL DURATION OF CONTINUOUS EEG MONITORING IN ANEURYSMAL SUBARACHNOID HEMORRHAGE,0.714285714,0.285714286,0,1
+771: MACHINE LEARNING PREDICTION OF RESPONSIVENESS PHENOTYPES IN NON-NEUROLOGIC ICU PATIENTS,0.5,0.5,0,1
+771: incidence and associated consequences of hyperchloremia in aneurysmal subarachnoid hemorrhage,0.666666667,0.333333333,1,0
+777: INCIDENCE AND ETIOLOGY OF POTENTIALLY PREVENTABLE ICU READMISSIONS,0.5,0.5,0,1
+781: THE EFFECT OF TELE-ICU INNOVATION ON PROGRESSIVE CARE UNIT (PCU) PATIENT POPULATION,0.375,0.625,1,0
+7: ASSESSMENT OF READMISSION RISK FACTORS AFTER INDEX HOSPITAL DISCHARGE FOR COVID-19 PATIENTS,0.470588235,0.529411765,1,0
+812: EFFECTS OF AN ADMISSION SCREEN FOR EARLY PALLIATIVE CONSULT SCREEN IN THE MICU,0.692307692,0.307692308,0,1
+815: A QUALITY ASSURANCE INVESTIGATION OF CLABSIS: ARE THERE EXCEPTIONS TO NEVER?,0.6,0.4,0,1
+829: Cisatracurium for Acute Respiratory Distress Syndrome on Extracorporeal Membrane Oxygenation,0.25,0.75,1,0
+834: DISCREPANCIES IN MEASURING BLADDER VOLUMES WITH BEDSIDE ULTRASOUND AND BLADDER SCANNING IN THE ICU,0.375,0.625,0,1
+851: RESPIRATORY DECOMPENSATION IN POST-OPERATIVE ABDOMINAL SEPSIS,0.4,0.6,0,1
+"854: CASE REPORT: ASPERGILLUS FUMIGATUS NECROTIZING PSEUDOMEBRANOUS TRACHEOBRONCHITIS AND INVASIVE PULMONARY ASPERGILLOSIS IN AN IMMUNOCOMPETENT HOST, USE OF COMBINATION ‚Ä¶",0.5,0.5,0,1
+857: PATIENT AND FAMILY COMMUNICATION BUNDLE IMPLEMENTATION IN AN INTENSIVE CARE UNIT (ICU),0.6,0.4,0,1
+859: DEVELOPMENT OF A STANDARDIZED FAMILY COMMUNICATION BUNDLE FOR USE IN AN INTENSIVE CARE UNIT,0.6,0.4,0,1
+866: ENHANCING SAFETY AND IMPROVING CARE OF TRACHEOSTOMY AND LARYNGECTOMY PATIENTS,0.5,0.5,0,1
+870: INCIDENCE OF ASYNCHRONIES DURING INVASIVE MECHANICAL VENTILATION OBSERVED OVER 2 MINUTES,0.5,0.5,0.5,0.5
+877: FEASIBILITY OF CONTINUOUS CAPNOGRAPHY MONITORING OF NON-INTUBATED PATIENTS AT RISK OF DECOMPENSATION,0.571428571,0.428571429,0,1
+878: ICU UTILIZATION AND OUTCOME OF OBSTETRIC POPULATION IN TERTIARY CARE CENTER: A 13-YEAR EXPERIENCE,0.571428571,0.428571429,0,1
+886: IMPROVING CAREGIVERS PERCEPTIONS REGARDING PATIENT GOALS OF CARE/END OF LIFE (GOC/EOL) ISSUES FOR THE MULTIDISCIPLINARY CRITICAL CARE TEAM,0.7,0.3,0,1
+889: AKI WITH AUC VERSUS TROUGH-GUIDED VANCOMYCIN MONITORING WITH CONCOMITANT BETA-LACTAMS IN THE ICU,0.6,0.4,1,0
+895: PROTOCOLIZED CARE FOR ACUTE RESPIRATORY DISTRESS SYNDROME: BEFORE AND DURING THE PANDEMIC,0.363636364,0.636363636,0,1
+899: POST-OPERATIVE HYPOXIA-IS IT PULMONARY EMBOLISM OR ABDOMINAL SEPSIS?-DIAGNOSIS MATTERS,0.5,0.5,0,1
+8: A NOVEL ICU HAND-OFF TOOL: THE GLASS DOOR OF THE PATIENT ROOM,0.285714286,0.714285714,0,1
+904: OUTCOMES OF COMPLICATED PARAPNEUMONIC EFFUSIONS TREATED WITH INTRAPLEURAL TISSUE PLASMINOGEN,0.166666667,0.833333333,0,1
+930: IMPROVING MULTIDISCIPLINARY INVOLVEMENT AT THE CRITICAL CARE CONGRESS THROUGH SOCIAL MEDIA,0.714285714,0.285714286,1,0
+937: Point-of-Care ultrasonography in Detection of Right Ventricular Dysfunction in Critically Ill Adults,0,1,0,1
+944: PROPYLENE GLYCOL TOXICITY FROM PENTOBARBITAL INFUSION IN REFRACTORY STATUS EPILEPTICUS,1,0,1,0
+957: THE ASSOCIATION OF EARLY ANTIBIOTIC USE WITH PROLONGED MECHANICAL VENTILATION IN SEVERE COVID-19,0.5,0.5,0,1
+961: Use of Fenoldopam in the Treatment of Calcineurin Inhibitor Induced Nephrotoxicity,1,0,1,0
+976: CHARACTERISTICS AND OUTCOMES OF SEVERE HYPONATREMIA (NA‚â§ 125 MEQ/L) IN THE MICU: A RETROSPECTIVE STUDY,0.5,0.5,1,0
+A CLUE for better assessment of donor lungs: novel technique in clinical ex vivo lung perfusion,0.4,0.6,1,0
+A Case Report of Listeria Meningitis with Severe Rhabdomyolysis and Normal Renal Function,0.333333333,0.666666667,0,1
+A Case of Austrian‚Äôs Triad in the ICU Complicated by Subarachnoid Hemorrhage,0.333333333,0.666666667,0,1
+A Case of Spurious Hypoxemia in an ICU Patient With Leukemic Blast Crisis,0.5,0.5,0,1
+A Comparison Between Sensitivity Analysis of Oxygenation Severity and Acute Respiratory Distress Syndrome (ARDS) of a Machine Learning Algorithm to Predict Hypoxic Respiratory ‚Ä¶,1,0,1,0
+A Computational Model to Predict Brain Trauma Outcome in the Intensive Care Unit,0.5,0.5,0,1
+A Computational Model to Predict Hospital Readmission,1,0,0,1
+A Computational Model to Predict Successful Extubation from Mechanical Ventilation in ICU Patients,0,1,0,1
+A FHIR-enabled streaming sepsis prediction system for ICUs,0.4,0.6,1,0
+A Framework for Developing a Multidisciplinary Approach to Prone Positioning in Acute Respiratory Distress Syndrome,0.285714286,0.714285714,0,1
+A Man with Pleural Effusion and Patient‚ÄìVentilator Dyssynchrony,0.5,0.5,0,1
+A Method to Explore Variations of Ventilator-Associated Event Surveillance Definitions in Large Critical Care Databases in the United States,0.571428571,0.428571429,0.5,0.5
+A Mixed Methods Study of Tele-ICU Nursing Interventions to Prevent Failure to Rescue of Patients in Critical Care,1,0,1,0
+A NATIONAL SURVEY OF CENTRAL VENOUS CATHETER FLUSHING PRACTICES IN THE INTENSIVE CARE UNIT,0.75,0.25,0,1
+A Novel Model for Comprehensive Intensive Care Unit Delirium Management,1,0,0,1
+A Novel Non-Invasive Assessment of Cardiac Hemodynamics in Patients With Heart Failure and Atrial Fibrillation,0.5,0.5,1,0
+A PHANTOM FOR EMISSION TOMOGRAPHY SYSTEM EVALUATION,1,0,0,1
+A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction,0.25,0.75,0,1
+A Physiology-Driven Machine Learning Model for Post-Cardiac Arrest Outcome Prediction Using a Large Multi-Center Database,0,1,0,1
+A Real-Time Deep Learning Approach for Inferring Intracranial Pressure from Routinely Measured Extracranial Waveforms in the Intensive Care Unit,0.375,0.625,0,1
+A Retrospective Analysis of the Effects of Pulmonary Rehabilitation in Non-COPD Patients Enrolled in a Community Hospital,1,0,1,0
+A Rhythmic Electrocardiographic Pattern in an Older Adult With Chest Pain,1,0,1,0
+A Survey of Contemporary Practice of Critical Care Anesthesiologists in the United States,0.4,0.6,0,1
+A Survey of Tele-Critical Care State and Needs in 2019 and 2020 Conducted among the Members of the Society of Critical Care Medicine,0.764705882,0.235294118,1,0
+A Vital Sign-Based Model to Predict Clinical Deterioration in Hospitalized Children,0.4,0.6,0,1
+A Woman With Refractory Hypoxemia,0.25,0.75,1,0
+"A case of birt-hogg-dube, presenting with recurrent pneumothorax, managed with intrabronchial valve placement",0,1,0,1
+A case of vaping-induced acute respiratory distress syndrome requiring extracorporeal life support,0.333333333,0.666666667,0,1
+A clinical description of extubation failure in patients with primary brain injury,0.25,0.75,0,1
+A clinician‚Äôs guide to understanding and critically appraising machine learning studies: a checklist for Ruling Out Bias Using Standard Tools in Machine Learning (ROBUST-ML),0,1,1,0
+A comparison of methohexital versus etomidate for endotracheal intubation of critically ill patients,0.5,0.5,0,1
+A comparison of methohexital versus etomidate for rapid sequence intubation in critically ill patients,0.5,0.5,0,1
+A comprehensive map of intron branchpoints and lariat RNAs in plants,0.230769231,0.769230769,1,0
+A focus on subtle signs and motor behavior to unveil awareness in unresponsive brain-impaired patients: the importance of being clinical,0.6,0.4,0,1
+A framework for diagnosing and classifying intensive care unit-acquired weakness,0,1,0,1
+A grading system for invasive pulmonary adenocarcinoma: a proposal from the International Association for the Study of Lung Cancer Pathology Committee,0.517241379,0.482758621,0,1
+A locally optimized data-driven tool to predict sepsis-associated vasopressor use in the ICU,0,1,1,0
+A low-glycemic nutritional fitness program to reverse metabolic syndrome in professional firefighters: results of a pilot study,1,0,1,0
+A machine learning-based prediction of cardiac arrest outcome using a large multi-center database,0.222222222,0.777777778,0,1
+A method for whole protein isolation from human cranial bone,0,1,0,1
+A mixed methods study of tele-ICU nursing interventions to prevent failure to rescue of patients in critical care,1,0,1,0
+"A model of pressure, oxygenation, and perfusion risk factors for pressure ulcers in the intensive care unit",0.5,0.5,0,1
+A multi-modal array of interpretable features to evaluate language and speech patterns in different neurological disorders,0.25,0.75,0,1
+"A multicenter, prospective, observational study to determine predictive factors for multidrug‚Äêresistant pneumonia in critically ill adults: The DEFINE study",0.552631579,0.447368421,1,0
+A multidisciplinary qi initiative to improve or‚Äìicu handovers,0.5,0.5,0,1
+A noninvasive bedside technique for retrieval of an entrapped guidewire from a vena cava filter without fluoroscopy,0.285714286,0.714285714,0,1
+A novel ICU hand-over tool: the glass door of the patient room,0.5,0.5,0,1
+A novel LAMA3a mutation causing fatal junctional epidermolysis bullosa-laryngo-onycho-cutaneous (JEB-LOC) syndrome,1,0,0,1
+A novel comprehensive infection control protocol; Prevention and eradication of multiresistant organisms outbreak in the intensive care unit using a multidisciplinary approach,0.571428571,0.428571429,0,1
+A pilot study of pepsin in tracheal and oral secretions,0.5,0.5,0,1
+A precision medicine framework for classifying patients with disorders of consciousness: Advanced Classification of Consciousness Endotypes (ACCESS),0.2,0.8,0,1
+A prediction model for bacteremia and transfer to intensive care in pediatric and adolescent cancer patients with febrile neutropenia,0,1,0,1
+A preliminary report on the determination of natural radioactivity levels of the State of Qatar using high-resolution gamma-ray spectrometry,1,0,1,0
+A rapidly progressing Pancoast syndrome due to pulmonary mucormycosis: a case report,0.5,0.5,0,1
+A rare case of ST-elevation myocardial infarction after blunt chest trauma,0.5,0.5,0,1
+A rare case of disseminated Trichosporon asahii infection after orthotopic liver transplant,0.571428571,0.428571429,0,1
+A rational framework for selecting modes of ventilation,0,1,0,1
+A smartwatch-based framework for real-time and online assessment and mobility monitoring,0.666666667,0.333333333,0,1
+A study to evaluate the effectiveness of the currently utilized acute kidney injury (AKI) alert: a use case example for a learning health system,0.25,0.75,0,1
+A syndromic surveillance tool to detect anomalous clusters of COVID-19 symptoms in the United States,0.285714286,0.714285714,0,1
+A taxonomy for mechanical ventilation: 10 fundamental maxims,0,1,0,1
+A taxonomy for patient-ventilator interactions and a method to read ventilator waveforms,0,1,0,1
+A voxel-based morphometry study of gray and white matter correlates of a need for uniqueness,0.583333333,0.416666667,0,1
+A young patient with a minimal smoking history presents with bullous emphysema and recurrent pneumothorax,0.25,0.75,0,1
+A24 ASK ME WHY: EVALUATION AND TREATMENT OF PLEURAL DISEASE: Autologous Blood Patch Pleurodesis For Persistent Air-Leak From Secondary Spontaneous Pneumothorax: A Systematic Review,1,0,0,1
+A27 CURRENT TOPICS IN RESPIRATORY FAILURE AND VENTILATORY SUPPORT: The Natural History Of Lung Function After Initiation Of Non-Invasive Ventilation In A Large Cohort Of ‚Ä¶,1,0,0,1
+ACCP WHITE PAPER,0.5,0.5,1,0
+AMA?,1,0,0,1
+AMERICAN THORACIC SOCIETY DOCUMENTS An OfÔ¨Åcial American Thoracic Society Clinical,0.375,0.625,0,1
+APILOT STUDY OF,0,1,0,1
+APRV for ARDS: the complexities of a mode and how it affects even the best trials,0.5,0.5,0.5,0.5
+ARDS Associated with Acute Graft Rejection Post Small Bowel Transplant,1,0,0,1
+ARTICLE OF THE MONTH,0,1,0,1
+ASSESSING THE NEUROBEHAVIORAL AND COGNITIVE EFFECTS OF TRAUMATIC BRAIN INJURY IN A JUVENILE MINI-PIG MODEL SYSTEM,0.75,0.25,0,1
+ATS Committee on ICU-acquired Weakness in Adults; American Thoracic Society. An official American Thoracic Society Clinical Practice guideline: the diagnosis of intensive care ‚Ä¶,1,0,0,1
+Abnormal thrombosis and neutrophil activation increase hospital-acquired sacral pressure injuries and morbidity in COVID-19 patients,0.454545455,0.545454545,0,1
+Abnormal vital signs after laparoscopic colorectal surgery: More common than you think,0.5,0.5,0,1
+Abstract 124,0.133333333,0.866666667,0,1
+Abstract P270: Simulating the Effects of Door-In-Door-Out Interventions,0.642857143,0.357142857,0,1
+Abstract P69: Proteomic Analysis of Craniosynostosis Tissue Suggests a Link Between Inflammation and Premature Suture Fusion,0.25,0.75,0,1
+Abstract TMP38: Using Natural Language Processing To Investigate Diagnostic Error In Acute Stroke,0.5,0.5,0,1
+Abstract TP94: Stroke Severity Scales Do Not Predict Adverse Hospital Outcome Variables In Young Stroke Patients: Results From A Regional Stroke Center Of Excellence,0.5,0.5,1,0
+Abstract WMP83: Bidirectional Brain-Microbiome Interaction in a Murine Thrombotic Stroke Model,0,1,0,1
+Access to HPV vaccination in Japan: Increasing social trust to regain vaccine confidence,0.25,0.75,0,1
+Accidental bolus of parenteral nutrition,0,1,0,1
+Accuracy and reproducibility of intraoperative assessment on tumor spread through air spaces in stage 1 lung adenocarcinomas,0.6,0.4,0,1
+Accuracy of measuring bladder volumes with ultrasound and bladder scanning,0.5,0.5,0,1
+Accuracy of samsung gear s smartwatch for activity recognition: Validation study,0.5,0.5,0,1
+"Acid‚Äìbase disturbances in intensive care patients: etiology, pathophysiology and treatment",0,1,0,1
+Activity and circadian rhythm of sepsis patients in the Intensive Care Unit,0.6,0.4,0,1
+Acute Hepatic Failure,0.5,0.5,0,1
+Acute Skeletal Muscle Loss in Patients with SARS-CoV-2 Infection Contributes to Poor Clinical Outcomes Including Mortality,1,0,1,0
+Acute encephalopathy,0.5,0.5,0,1
+Acute hepatotoxicity after high-dose cytarabine for the treatment of relapsed acute myeloid leukemia: a case report,0.5,0.5,1,0
+Acute liver failure: a management challenge for the practicing gastroenterologist,0,1,0,1
+Acute lung injury in a neurosciences critical care unit,1,0,0,1
+Acute lung injury in critical neurological illness,0.333333333,0.666666667,0,1
+Acute orthodeoxia: evaluation using point-of-care ultrasound imaging,0.25,0.75,1,0
+Acute respiratory distress syndrome: Implications of recent studies,0,1,0,1
+Acute respiratory failure requiring mechanical ventilation in severe chronic obstructive pulmonary disease (COPD),0.333333333,0.666666667,0,1
+Acute skeletal muscle loss in SARS‚ÄêCoV‚Äê2 infection contributes to poor clinical outcomes in COVID‚Äê19 patients,0.777777778,0.222222222,1,0
+Adapting clinical pharmacy staffing models during the COVID‚Äê19 pandemic: Lessons learned and considerations for future disaster planning,0.75,0.25,1,0
+Adapting rapid assessment procedures for implementation research using a team-based approach to analysis: a case example of patient quality and safety interventions in the ICU,1,0,1,0
+Adherence to blood product transfusion guidelines‚Äîan observational study of the current transfusion practice in a medical intensive care unit,0.142857143,0.857142857,0,1
+Adjunctive Vasopressors in Patients with Septic Shock: Protocol for a Systematic Review and Meta-Analysis,1,0,1,0
+Admission Code Status and End-of-life Care for Hospitalized Patients with COVID-19,1,0,1,0
+Admission code status and end-of-life care for hospitalized patients with COVID-19,0.375,0.625,1,0
+Adoption of a dedicated multidisciplinary team is associated with improved survival in acute pulmonary embolism,0.333333333,0.666666667,0,1
+Adult parenteral nutrition utilization at a tertiary care hospital,0.6,0.4,0,1
+"Adults ATSCoI-aWi, American Thoracic S. An official American Thoracic Society Clinical Practice guideline: the diagnosis of intensive care unit-acquired weakness in adults",1,0,0,1
+Advanced schemes for underdense plasma photocathode wakefield accelerators: pathways towards ultrahigh brightness electron beams,1,0,1,0
+Adverse motor effects of progressive supranuclear palsy with frontal lobe signs: A case report,0.75,0.25,0,1
+Air travel of patients with abdominal aortic aneurysm: urgent air medical evacuation and nonurgent commercial air repatriation,0.4,0.6,0,1
+Airway Pressure Release Ventilation in Acute Respiratory Failure Due to COVID-19: When One Door Closes reply,0.6,0.4,0,1
+Airway Pressure Release Ventilation in COVID-19: There's More to This Than Meets the Eye Reply,0.4,0.6,0,1
+Airway management considerations in patients with COVID-19.,0.333333333,0.666666667,1,0
+All shock states are not the same. Systolic anterior motion of mitral valve causing left ventricular outflow tract obstruction in septic shock,0.5,0.5,1,0
+All-optical density downramp injection in electron-driven plasma wakefield accelerators,1,0,1,0
+Alternative modes of mechanical ventilation: A review for the hospitalist,0.5,0.5,0,1
+Amiodarone pulmonary toxicity after lung transplantation,0.75,0.25,0,1
+Amygdala and cingulate structure is associated with stereotype on sex-role,0.5625,0.4375,0,1
+An LC-IMS-MS platform providing increased dynamic range for high-throughput proteomic studies,1,0,0,1
+An Official ATS Clinical Practice Guideline: The Diagnosis of Intensive Care Unit Acquired Weakness,0.375,0.625,0,1
+An Unexpected Benefit: Does Early Urinary Catheter Removal Reduce the Risk of Surface Dependent Pressure Ulcers in the Critically Ill?,0,1,0,1
+An Unsupervised Machine-Learning-Based Approach Elucidates the Prognostic Value of Symptom Clusters in Heart Failure Patients Evaluated in the Emergency Department,0.666666667,0.333333333,1,0
+An annotated ventricular tachycardia (VT) alarm database: Toward a uniform standard for optimizing automated VT identification in hospitalized patients,0.571428571,0.428571429,1,0
+An assessment of the natural radioactivity distribution and radiation hazard in soil samples from Qatar using high-resolution gamma-ray spectrometry,0.909090909,0.090909091,1,0
+An efficient data format for mass spectrometry-based proteomics,0,1,0,1
+An electronic antimicrobial stewardship intervention reduces inappropriate parenteral antibiotic therapy,0.625,0.375,0,1
+An interpretable machine learning model for accurate prediction of sepsis in the ICU,0.666666667,0.333333333,1,0
+An official American Thoracic Society Clinical Practice guideline: the diagnosis of intensive care unit‚Äìacquired weakness in adults,0.375,0.625,0,1
+An overview of e-waste management in China,0.111111111,0.888888889,1,0
+"An unusual case of Salmonella Enteritidis causing pneumonia, septic shock and multiple organ failure in an immunocompetent patient",1,0,1,0
+Anaesthesia Critical Care & Pain Medicine,0.2,0.8,0,1
+Analgesia and sedation strategies in mechanically ventilated adults with COVID‚Äê19,0.666666667,0.333333333,1,0
+Analgesia for total hip arthroplasty with posterior lumbar plexus block,1,0,0,1
+Analysis of Interpretable Handwriting Features to Evaluate Motoric Patterns in Different Neurodegenerative Diseases,1,0,0,1
+Analysis of discrepancies between pulse oximetry and arterial oxygen saturation measurements by race and ethnicity and association with organ dysfunction and mortality,0.555555556,0.444444444,0.666666667,0.333333333
+"Analysis of microRNAs, phased small interfering RNAs and their potential targets in Rosarugosa Thunb.",0.181818182,0.818181818,1,0
+Analysis of the Ventilator Associated Condition (VAC) in Large Open ICU Datasets,1,0,0.5,0.5
+Analysis of the methodologic quality of reporting of meta-analyses in anesthesiology and pain medicine,0.333333333,0.666666667,0,1
+Analytic review: neurological complications of transplantation,0.666666667,0.333333333,0,1
+Anesthesia Instrument Recognition System.,0.333333333,0.666666667,0,1
+"Angled laser triggered electron injection in the electron driven plasma wakefield acceleration scheme: a case study in a pursuit to increase tolerance levels, based on FACET II ‚Ä¶",0.1,0.9,1,0
+Annotation protocol designed to improve ventricular tachycardia identification during in-hospital ECG,0.6,0.4,1,0
+Anthracostenosis,0,1,0,1
+Application of mid-frequency ventilation in an animal model of lung injury: a pilot study,0,1,0,1
+Applications of Artificial Intelligence in Pediatric Oncology: A Systematic Review,0.6,0.4,0,1
+Applying Learning Theory To Develop A Course On Hemodynamic Monitoring Of The Critically Ill Patient,0.125,0.875,0,1
+Approach to the comatose patient,1,0,0,1
+Approaches for Non-Invasive Objective Assessment of Myocardial Ischemia Across the Continuum of Clinical Care,1,0,1,0
+Arrhythmias of Noncardiac Origin,1,0,1,0
+Arterial stiffness is associated with QTc interval prolongation in patients with heart failure,0.4,0.6,1,0
+Assessing current therapeutic approaches to decode potential resistance mechanisms in glioblastomas,0.4,0.6,1,0
+Assessment of EMR Data Availability Within the First 12 Hours of Admission for Prediction by Machine Learning Methods,1,0,1,0
+"Assessment of Symptom, Disability, and Financial Trajectories in Patients Hospitalized for COVID-19 at 6 Months",0.337837838,0.662162162,0.666666667,0.333333333
+Assessment of white matter injury and outcome in severe brain trauma: a prospective multicenter cohort,0.36,0.64,0,1
+Assistive Multimodal Wearable for Open Air Digit Recognition Using Machine Learning,0.333333333,0.666666667,0,1
+Association Between Critical Events in the PICU and Outcomes in Neighboring Patients,0.285714286,0.714285714,0,1
+Association Between In-Hospital Critical Illness Events and Outcomes in Patients on the Same Ward,0.5,0.5,0,1
+Association Between Room Location and Adverse Outcomes in Hospitalized Patients,0.2,0.8,0,1
+Association between gray matter volume in the caudate nucleus and financial extravagance: Findings from voxel-based morphometry,0.555555556,0.444444444,0,1
+Association between history of cancer and major adverse cardiovascular events in patients with chest pain presenting to the emergency department: a secondary analysis of a ‚Ä¶,0.8,0.2,1,0
+Association between resting-state functional connectivity 2 and empathizing/systemizing,0.571428571,0.428571429,0,1
+Association between resting-state functional connectivity and empathizing/systemizing,0.615384615,0.384615385,0,1
+Association of Noninvasive Respiratory Support with Extubation Outcomes in Brain-injured Patients Receiving Mechanical Ventilation: A Secondary Analysis of the ENIO Prospective ‚Ä¶,0.166666667,0.833333333,0,1
+Association of Renin Angiotensin Aldosterone System Inhibitors and Outcomes of Hospitalized Patients With COVID-19,0.285714286,0.714285714,1,0
+Association of chloride-rich fluids and medication diluents on the incidence of hyperchloremia and clinical consequences in aneurysmal subarachnoid hemorrhage,0.5,0.5,1,0
+Association of early steroid administration with outcomes of children hospitalized for COVID-19 without Multisystem inflammatory syndrome in children,0.548387097,0.451612903,0,1
+Association of hair iron levels with creativity and psychological variables related to creativity,0.5625,0.4375,0,1
+Association of phosphate containing solutions with incident hypophosphatemia in critically ill patients requiring continuous renal replacement therapy,1,0,1,0
+Association of phosphate-containing versus phosphate-free solutions on ventilator days in patients requiring continuous kidney replacement therapy,0,1,1,0
+Asynchrony During Mechanical Ventilation Results In Higher Level Of Arousal Based On Eeg Analysis,0.5,0.5,0,1
+Atlas-Based Quantitative Diffusion-Weighted Mapping in Patients with Aneurysmal Subarachnoid Hemorrhage (P06. 231),0.285714286,0.714285714,0,1
+"Atrial fibrillation in patients hospitalized with COVID-19: incidence, predictors, outcomes, and comparison to influenza",0.454545455,0.545454545,0,1
+Attenuation of ischemia-reperfusion injury in swine resuscitated for hemorrhagic shock by low-dose inhaled nitrite or carbon monoxide,1,0,1,0
+Attosecond-Angstrom free-electron-laser towards the cold beam limit,1,0,1,0
+Augmented renal clearance in patients with subarachnoid hemorrhage,1,0,1,0
+Author Correction: A syndromic surveillance tool to detect anomalous clusters of COVID-19 symptoms in the United States,0.285714286,0.714285714,0,1
+Author Correction: Decoding accelerometry for classification and prediction of critically ill patients with severe brain injury,0.285714286,0.714285714,0,1
+"Author Index Vol. 118, No. 2‚Äì4, 1999",0.652892562,0.347107438,0,1
+"Author Response: Yousef Hannawi, Columbus, OH; Robert D. Stevens, Baltimore, MD.",0,1,0,1
+"Author and Subject Index Vol. 118, 1999",0.652892562,0.347107438,0,1
+Author reply: DoC: a pathophysiological continuum with high variabiity?,0,1,0,1
+Author reply: Too less experiments for an ALE-meta analysis?,0,1,0,1
+Automated Matching of Patients to Clinical Trials: A Patient-Centric Natural Language Processing Approach for Pediatric Leukemia,0.166666667,0.833333333,0,1
+Automated annotation and quantification of glycans using liquid chromatographyâ€“mass spectrometry,0.666666667,0.333333333,0,1
+Automated glycan sequencing from tandem mass spectra of N-linked glycopeptides,0.5,0.5,0,1
+Autonomic dysfunction characterized by Heart Rate Variability among patients with Sepsis-related Acute Respiratory Failure,0.5,0.5,1,0
+Autonomous detection of disruptions in the intensive care unit using deep mask R-CNN,0.5,0.5,0,1
+B Cell Lymphoma Associated Hemophagocytic Lymphohistiocytosis (hlh) Presenting As Fulminant Liver Failure,0,1,0,1
+B-type natriuretic peptide as a marker for heart failure in patients with acute stroke,0,1,0,1
+B39 INTERVENTIONAL PULMONARY MEDICINE: RECENT ADVANCES: Diagnostic Yield And Safety Of Electromagnetic Navigational Bronchoscopy: a Single Center Experience,1,0,0,1
+B43 MECHANISMS OF INJURY IN ARDS AND VILI: The Impact Of Patient Effort On Achieving Lung Protective Ventilation,0,1,0,1
+B44 INVASIVE AND NON-INVASIVE MECHANICAL VENTILATION: Prone Position Ventilation And The Development Of Pressure Ulcers: Experience From A Tertiary Care Referral Center,1,0,0,1
+BRAIN MRI REVEALS THE STRUCTURAL CAUSES OF ENCEPHALOPATHY IN CRITICAL ILLNESS.: 187-M,0,1,0,1
+BROKEN HEARTED FROM MYASTHENIA,0.333333333,0.666666667,0,1
+Basic principles of ventilator design,0,1,0,1
+Basic sciences in anesthesia,0,1,1,0
+Best practices: Incorporating pharmacy technicians and other support personnel into the clinical pharmacist's process of care,0.428571429,0.571428571,1,0
+Beyond the ST-Segment: Novel Methods to Quantify Acute Myocardial Ischemia in Patients with Suspected Acute Coronary Syndrome,0,1,1,0
+Bioinformatics protocols in glycomics and glycoproteomics,0.5,0.5,0,1
+Blood Loss from Routine Phlebotomy Practices and a Strategy for Conservation,0.4,0.6,0,1
+Blood transcriptomics predicts progression of pulmonary fibrosis and associated natural killer cells,0.625,0.375,0,1
+Blood transfusion for upper gastrointestinal bleeding: is less more again?,0,1,0,1
+Body Temperature Trajectory Associated with Venous Thromboembolism in COVID-19 Patients,1,0,1,0
+Boundary layer adjustments to bottom topography and suspended sediment. Bottom Turbulenc,1,0,0,1
+"Brain Disorders in Critical Illness: Mechanisms, Diagnosis, and Treatment",0,1,0,1
+Brain Natriuretic Peptide (BNP) as an Indicator of Acute Right Heart Strain at the Time of Pulmonary Embolus Diagnosis Across Varying Body Mass Indices (BMI),1,0,0,1
+"Brain disorders in critical illness: mechanisms, diagnosis, and treatment",0,1,0,1
+Brain imaging in intensive care medicine,1,0,0,1
+Bronchiolitis obliterans organizing pneumonia after orthotopic liver transplantation,0.428571429,0.571428571,0,1
+"Bronchoscopy and CXR are not required with percutaneous dilational tracheostomy using the ciaglia"" Blue Rhino (TM)""",1,0,0,1
+Bundling or multiple interventions needed to control nosocomial infections,1,0,0,1
+C-reactive protein in subarachnoid hemorrhage,1,0,0,1
+"C43 CRITICAL CARE: NEW CARE APPROACHES: Continuous In-House Intensivist Coverage Decreases Mortality, Ventilator Free Hours, And Critical Care Length Of Stay In A Large ‚Ä¶",1,0,1,0
+C50 CRITICAL CARE: NON-PULMONARY CRITICAL CARE PROBLEMS: Hemodynamic Instability Following Vasopressin Withdrawal In Septic Shock,1,0,1,0
+"C57 CRITICAL CARE CASE REPORTS: HEMATOLOGY, ONCOLOGY, RHEUMATOLOGY, AND IMMUNOLOGY: B Cell Lymphoma Associated Hemophagocytic Lymphohistiocytosis (hlh) Presenting As Fulminant ‚Ä¶",1,0,0,1
+CARDIAC METASTASIS OF NEUROENDOCRINE TUMOR: A CASE REPORT,0.6,0.4,1,0
+CARDIOVASCULAR ANESTHESIA-Society of Cardiovascular Anesthesiologists-Pharmacologic Myocardial Protection in Patients Undergoing Noncardiac Surgery: A Quantitative Systematic ‚Ä¶,0,1,0,1
+CATHETER-RELATED BLOODSTREAM INFECTION RATES IN MINOCYCLINE/RIFAMPIN VS. CHLORHEXIDINE/SILVER SULFADIAZINE-IMPREGNATED CENTRAL VENOUS CATHETERS-RESULTS OF A 46 MONTH STUDY,0.5,0.5,0,1
+CHANGES IN T-CELL SUBSETS ARE CORRELATED WITH MODS SCORE CHANGES AND NUTRITIONAL STATUS.,0,1,0,1
+CHARACTERISTICS OF CRITICALLY ILL ADULTS WITH UNAVOIDABLE SACROCOCCYGEAL HOSPITAL-ACQUIRED PRESSURE INJURIES (HAPI): A CASE-CONTROL STUDY,0.333333333,0.666666667,0,1
+CHEST Postgraduate Education Corner,0.25,0.75,0,1
+CHIRURGIE CARDIAQUE CHEZ L'OCTOGENAIRE,1,0,0,1
+CLINICAL OUTCOMES RELATED TO CONVERSION FROM THE RAMSAY SEDATION SCALE TO THE RICHMOND AGITATION SEDATION SCALE,0.6,0.4,0,1
+CNE. Optimizing Antibiotic Management For Acute Simple Cystitis in Women: An Evidence-Based Roadmap for the Primary Care Ambulatory Setting.,1,0,1,0
+COMPASS-CAT versus Khorana risk assessment model for predicting venous thromboembolic events in patients with non-small cell lung cancer on active treatment with chemotherapy ‚Ä¶,0.454545455,0.545454545,0,1
+CONNECTIONS BETWEEN DAILY ACTIVITY PATTERNS AND ECOLOGICAL MOMENTARY ASSESSMENTS OF PAIN IN OLDER ADULTS,1,0,0,1
+COPD overdiagnosis and its effect on 30-day hospital readmission rates,0,1,0,1
+CORRELATION BETWEEN PEAK MITRAL ANNULAR SYSTOLIC VELOCITY AND LEFT VENTRICULAR EJECTION FRACTION IN SEPSIS AND SEPTIC SHOCK,0.6,0.4,1,0
+COVID-19 Impact on Registered Nurses in a Hospital in the United States: A Qualitative Study,0.5,0.5,1,0
+COVID-19 and the Electronic Health Record: Tool Design and Evolution at the US Pandemic Epicenter,0.5,0.5,0,1
+COVID-19 coagulopathy Reply,0.4,0.6,1,0
+COVID-19-associated critical illness‚Äîreport of the first 300 patients admitted to intensive care units at a New York City Medical Center,0.333333333,0.666666667,0,1
+Can Early Initiation of Continuous Renal Replacement Therapy in Acute Liver Failure Patients with Acute Kidney Injury Improve Outcomes?: Presidential Poster: 387,0.2,0.8,0,1
+Can statins prevent the neurologic complications of CABG?,1,0,0,1
+Canakinumab to Reduce Deterioration of Cardiac and Respiratory Function in Sars-cov2 Associated Myocardial Injury With Heightened Inflammation (canakinumab in Covid-19 Cardiac ‚Ä¶,0.333333333,0.666666667,1,0
+Canakinumab to reduce deterioration of cardiac and respiratory function in SARS‚ÄêCoV‚Äê2 associated myocardial injury with heightened inflammation (canakinumab in Covid‚Äê19 cardiac ‚Ä¶,0.5,0.5,1,0
+Cardiac Dysrhythmia During Pacing in an Infant,1,0,1,0
+Cardiac surgery in octogenarians,1,0,0,1
+Cardiogenic shock complicating sepsis and septic shock: A national inpatient sample analysis.,1,0,1,0
+Cardiopulmonary bypass and bronchoscopy for removal of large gravel in the bronchial tree,0,1,0,1
+Cardiovascular Adverse Events after COVID-19 Vaccination,0.5,0.5,0,1
+Cardiovascular Clinical Assessment and Diagnostic Procedures,1,0,1,0
+Cardiovascular death and progression to endâ€êstage renal disease after major surgery in elderly patients,1,0,0,1
+Cardiovascular diagnostic procedures,1,0,1,0
+Cardiovascular disorders,1,0,1,0
+Caring for two in the ICU: Pharmacotherapy in the critically ill pregnant patient,0.571428571,0.428571429,1,0
+Caring for two in the ICU: pharmacologic management of pregnancy‚Äêrelated complications,0.5,0.5,1,0
+Case Report of Cefepime Induced Neurotoxicity Despite Renal Dose Adjustment Based on Cockroft-Gault Equation,1,0,1,0
+"Case based review questions, review sessions, and call schedule type enhance knowledge gains in a surgical clerkship",0,1,0,1
+"Case-mix, care pathways, and outcomes in patients with traumatic brain injury in CENTER-TBI: a European prospective, multicentre, longitudinal, cohort study",0.435483871,0.564516129,0,1
+"Cassandra Landholt, coauthor of",0.333333333,0.666666667,0,1
+Causes of diabetic ketoacidosis among adults with type 1 diabetes mellitus: insulin pump users and non-users,0.5,0.5,0,1
+Cecal bascule after spinal cord injury: a case series report,1,0,0,1
+Central lung gene expression associates with myofibroblast features in idiopathic pulmonary fibrosis,0.2,0.8,0,1
+Cerebral Blood Volume Decreases Demonstrated during Breath Hold with Vascular Space Occupancy (VASO) and VASO-FLAIR fMRI,1,0,0,1
+Cerebral Gas Embolism-A Serious Complication of CO2 Angiography,0.5,0.5,0,1
+Cerebral blood volume changes in arterial and post-arterial compartments and their relationship with cerebral blood flow alteration during brief breath-holding and visual ‚Ä¶,0,1,0,1
+Cerebrovascular Contributions to Pre-Post-Operative Cognitive Slowing in Clock Drawing after Total Knee Arthroplasty in Older Adults,0.5,0.5,0,1
+Cerrahi yoƒüun bakƒ±m √ºnitesinde kateter ili≈ükili kan dola≈üƒ±mƒ± infeksiyonlarƒ±nƒ±n azaltƒ±lmasƒ±nda eƒüitim programƒ±nƒ±n etkisi,1,0,0,1
+Change in Ejection Fraction and In-Hospital Mortality in Patients with Sepsis and Septic Shock,1,0,1,0
+Changes to practice may help avoid ‚Äòdouble trouble‚Äô,0,1,0,1
+Characteristics and management of blunt renal injury in children,0.5,0.5,0,1
+Characteristics and outcomes of adverse events after COVID‚Äê19 vaccination,0.25,0.75,0,1
+"Characteristics of Critically Ill Adults With Sacrococcygeal Unavoidable Hospital-Acquired Pressure Injuries: A Retrospective, Matched, Case-Control Study",0.25,0.75,0,1
+Characteristics of Cumulative Annual Radiation Exposure in Young Intensive Care Unit Survivors,0.375,0.625,1,0
+"Characteristics, outcomes and 60-day hospital mortality of ICU patients with COVID-19 and acute kidney injury",0.2,0.8,0,1
+Characterization and Use of Cross Sections from Features in LC-IMS-MS Experiments,0.666666667,0.333333333,0,1
+Characterization of Sphinx1 ASIC X-ray detector using photon counting and charge integration,0.9,0.1,1,0
+Characterization of myocardial injury in patients with COVID-19,0.487804878,0.512195122,0,1
+Characterization of white matter changes in a mouse model of mild blast traumatic brain injury,0.333333333,0.666666667,0,1
+"Characterizing Relevant microRNA Editing Sites in Parkinsonâ€™s Disease. Cells 2023, 12, 75",1,0,1,0
+Characterizing microRNAs and their targets in different organs of Camellia sinensis var. assamica,0.076923077,0.923076923,1,0
+Characterizing relevant microRNA editing sites in Parkinsonâ€™s disease,0.181818182,0.818181818,1,0
+Children have Higher incidence of Traumatic Brain Injury After ATV Crash Compared to Adults,0,1,0,1
+Chlorhexidine Gluconate Bathing to Reduce Methicillin-Resistant Staphylococcus aureus Acquisition,0.5,0.5,0,1
+Circadian variation in ictus of aneurysmal subarachnoid hemorrhage,0.222222222,0.777777778,1,0
+Cisatracurium continuous infusion versus no neuromuscular blockade for acute respiratory distress syndrome on venovenous extracorporeal membrane oxygenation,0.2,0.8,1,0
+Classification and Quantification of Patient-Ventilator Interactions: We Need Consensus!,0,1,0,1
+Classification of Subsequent Acute Respiratory Failure (ARF) Requiring Prolonged Mechanical Ventilation by Basic Machine Learning Algorithms,1,0,1,0
+"Classifying disorders of consciousness: past, present, and future",0,1,0,1
+"Classifying non-dementia and Alzheimerâ€™s disease/vascular dementia patients using kinematic, time-based, and visuospatial parameters: the digital clock drawing test",0.75,0.25,0,1
+Clinical Context From the Medical Record Improves Artificial Intelligence Models for Sepsis Prediction,1,0,1,0
+Clinical Evaluation of a Novel Intrarectal Device Versus Balloon Intrarectal Device for Fecal Incontinence,0.5,0.5,0,1
+Clinical Outcomes After Multi-Disciplinary Evaluation for Lung Volume Reduction Surgery for Patients With Chronic Obstructive Pulmonary Disease,1,0,0,1
+Clinical and imaging correlates of EEG patterns in hospitalized patients with encephalopathy,0,1,0,1
+Clinical characteristics and outcomes of critically Ill patients with COVID-19 in Northeast Ohio: low mortality and length of stay,0.333333333,0.666666667,0,1
+Clinical decision support for in-hospital AKI,0.25,0.75,0,1
+Clinical neurological assessment of the critically ill patient,0,1,0,1
+Clinical predictors of renal non-recovery in acute respiratory distress syndrome,0.111111111,0.888888889,0,1
+Clinical review or Bench-to-bedside review?,0.166666667,0.833333333,0,1
+Clinical review: neuromonitoring-an update,0.166666667,0.833333333,0,1
+Clinical utility of a semiquantitative method using lumbar radiography as a screening tool for osteoporosis in elderly subjects,0.444444444,0.555555556,0,1
+Clinicians‚Äô Acceptance of Interactive Health Technologies for Self-Management among Patients with Chronic Cardiopulmonary Disorders,1,0,1,0
+Clockâ€êdrawing center estimation varies with age and Alzheimer's disease,0.571428571,0.428571429,0,1
+Closed-loop control of mechanical ventilation: description and classification of targeting schemes,0,1,0,1
+Clot-in-transit: A ticking time bomb in the heart with serious consequences,0.5,0.5,0,1
+Coagulopathy in COVID-19: Manifestations and management,1,0,1,0
+"Coagulopathy in COVID-19: posted april 24, 2020",1,0,1,0
+Cognitive Motor Dissociation: Gap Analysis and Future Directions,0.3,0.7,0,1
+Cognitive Reserve,1,0,0,1
+Cognitive and acoustic speech and language patterns occurring in different neurodegenerative disorders while performing neuropsychological tests,1,0,0,1
+Cognitive and neural correlates of the 5-repeat allele of the dopamine D4 receptor gene in a population lacking the 7-repeat allele,0.6,0.4,0,1
+Collaboration between industry and the HEP community,0.95,0.05,1,0
+Collaborative European NeuroTrauma Effectiveness Research in Traumatic Brain Injury (CENTER-TBI): a prospective longitudinal observational study,1,0,0,1
+Coma Prognostication: Looks That Count,0,1,0,1
+Coma emergence and recovery: The new and the old,0,1,0,1
+Combined inhibition of the proteasome and XPO1/CRM1-dependent nuclear export results in synergistic myeloma cell death via a novel mechanism of intracellular activation of â€_,0.25,0.75,0,1
+Combining patient visual timelines with deep learning to predict mortality,0.333333333,0.666666667,0,1
+Commentary: Measure what matters in one lung ventilation,0.5,0.5,0,1
+Common data elements for COVID-19 neuroimaging: a GCS-NeuroCOVID proposal,0.5,0.5,0,1
+Comparative effectiveness of decompressive craniectomy versus craniotomy for traumatic acute subdural hematoma (CENTER-TBI): an observational cohort study,0.447368421,0.552631579,0,1
+Comparison Of High Frequency Oscillatory Ventilation Protocols,0.333333333,0.666666667,0,1
+Comparison Of Two CPAP Devices Utilized In Transport: A Bench Study,0,1,0,1
+Comparison of Expert Recommended Ventilation Strategies in Simulated Obstructive Lung Disease,1,0,0,1
+Comparison of clinical risk scores for triaging high-risk chest pain patients at the emergency department,0,1,1,0
+Comparison of fixed dose versus train-of-four titration of cisatracurium in acute respiratory distress syndrome,1,0,1,0
+Comparison of gaussian processes methods to linear methods for imputation of sparse physiological time series,0.6,0.4,0,1
+Comparison of machine learning methods for predicting outcomes after in-hospital cardiac arrest,0.666666667,0.333333333,0,1
+Comparison of nasal and forehead oximetry accuracy and pressure injury in critically ill patients,0.5,0.5,0,1
+Comparison of risk factors and outcomes of daptomycin‚Äêsusceptible and ‚Äênonsusceptible vancomycin‚Äêresistant Enterococcus faecium infections in liver transplant ‚Ä¶,1,0,0,1
+Comprehensive neural networks for guilty feelings in young adults,0.5625,0.4375,0,1
+Computational Endotypes of Sepsis and Septic Shock Derived from High Resolution Patient Records,0,1,0,1
+Computational Endotypes of Sepsis and Septic Shock Derived from Time Series Data,0,1,0,1
+Computational Prediction of Targeted Temperature Management Outcome for Personalized Cardiac Arrest Treatment,1,0,0,1
+Computational framework for identification of intact glycopeptides in complex samples,0.333333333,0.666666667,0,1
+Computational modelling in disorders of consciousness: closing the gap towards personalised models for restoring consciousness,0.25,0.75,0,1
+Computational signatures for post-cardiac arrest trajectory prediction: Importance of early physiological time series,0.2,0.8,0,1
+Concomitant spine trauma in patients with traumatic brain injury: Patient characteristics and outcomes,0.42519685,0.57480315,0,1
+Cone-beam CT statistical reconstruction with a model for fluence modulation and electronic readout noise,1,0,0,1
+Cone‚Äêbeam CT for imaging of the head/brain: development and assessment of scanner prototype and reconstruction algorithms,1,0,0,1
+Contamination in adult midstream clean-catch urine cultures in the emergency department: a randomized controlled trial,0.333333333,0.666666667,1,0
+Continous Respiratory Monitoring of Nonintubated Patients Outside the ICU: ETCO2+ Oximetry vs Respiratory Volume Monitoring,0.333333333,0.666666667,0,1
+Continuous cerebral blood flow autoregulation monitoring in patients undergoing liver transplantation,0.333333333,0.666666667,0,1
+Continuous electroencephalographic monitoring and vasospasm: The authors reply,0,1,0,1
+"Continuous electroencephalographic monitoring in critically ill patients: indications, limitations, and strategies",0,1,0,1
+"Continuous in-house intensivist coverage decreases mortality, ventilator free hours, and critical care length of stay in a large, community intensive care unit",0.5,0.5,1,0
+Continuous medical education changes practice: one year after SMART and SALT-ED,0,1,0,1
+"Continuous positive airway pressure plus weight loss for obstructive sleep apnea (OSA), association of cancer with OSA, and hypoglossal nerve stimulation for OSA treatment",0,1,0,1
+Contribution of clinical course to outcome after traumatic brain injury: mining patient trajectories from European intensive care unit data,0.75,0.25,0,1
+Controversies in the management of aneurysmal subarachnoid hemorrhage,1,0,0,1
+Convalescent plasma for preventing critical illness in COVID-19: A phase 2 trial and immune profile,0.5,0.5,0,1
+Convalescent plasma treatment of severe COVID-19: a propensity score‚Äìmatched control study,0.375,0.625,0,1
+Coronavirus disease 2019 temperature trajectories correlate with hyperinflammatory and hypercoagulable subphenotypes,0.333333333,0.666666667,1,0
+Correction to: Clinical predictors of renal non-recovery in acute respiratory distress syndrome,0.111111111,0.888888889,0,1
+Correction to: Proceedings of the Second Curing Coma Campaign NIH Symposium: Challenging the Future of Research for Coma and Disorders of Consciousness,0.638888889,0.361111111,0,1
+Correction: Mechanisms Underlying Disorders of Consciousness: Bridging Gaps to Move Toward an Integrated Translational Science,0.5,0.5,0,1
+Correlation between Tissue Doppler-derived left ventricular systolic velocity (mitral S‚Äô) and left ventricle ejection fraction (LVEF) in sepsis and septic shock: A ‚Ä¶,0.4,0.6,1,0
+Correlation between tissue Doppler-derived left ventricular systolic velocity (S‚Äô) and left ventricle ejection fraction in sepsis and septic shock: a retrospective cohort study,0.4,0.6,1,0
+Corticosteroid use in ARDS and its application to evolving therapeutics for coronavirus disease 2019 (COVID‚Äê19): A systematic review,0.857142857,0.142857143,1,0
+"Corticotrophins, corticosteroids, and prostaglandins",0,1,1,0
+Cough augmentation in a patient with neuromuscular disease,0,1,0,1
+Course of Decline of Lung Function Based on Tolerance to Noninvasive Ventilation in Patients with Amyotrophic Lateral Sclerosis,0.5,0.5,0,1
+Critical Bias in Critical Care Devices,0.666666667,0.333333333,1,0
+Critical Care A La Mode During Natural Cataclysms,1,0,1,0
+Critical Care Neurology,0,1,0,1
+Critical care Nursing Diagnosis and management 6th ed,1,0,1,0
+Critical care and perioperative management in traumatic spinal cord injury,1,0,0,1
+Critical care management and intensive care unit outcomes following cytoreductive surgery with hyperthermic intraperitoneal chemotherapy,0.555555556,0.444444444,0,1
+Critical care nursing,1,0,1,0
+Critical care nursing diagnosis and management,1,0,1,0
+Critical care nursing practice,1,0,1,0
+Critical care nursing: Diagnosisand management,1,0,1,0
+Critical care nursing: Mosby,1,0,1,0
+Cross-training across acuity levels,1,0,1,0
+Cutaneous manifestations of hospitalized COVID-19 patients in the VIRUS COVID-19 registry,1,0,1,0
+Cutaneous manifestations of hospitalized COVID‚Äê19 patients in the VIRUS COVID‚Äê19 registry,0.4,0.6,1,0
+C√≥mo ventilo a mis pacientes con s√≠ndrome de distress respiratorio del adulto,1,0,0,1
+D105 RESPIRATORY FAILURE: ROLE OF THE DIAPHRAGM AND SKELETAL MUSCLES: Course Of Decline Of Lung Function Based On Tolerance To Non-Invasive Ventilation In Patients With ‚Ä¶,1,0,0,1
+D105 RESPIRATORY FAILURE: ROLE OF THE DIAPHRAGM AND SKELETAL MUSCLES: Predictors Of Survival In A Large Cohort Of Patients With Amyotrophic Lateral Sclerosis,1,0,0,1
+D49 UTILITY OF DIAGNOSTIC TOOLS IN THE ICU: Decision Making Capacity In The Medical Intensive Care Unit (icu): Care Giver's Impressions Versus A Standardized Modality,1,0,0,1
+D49 UTILITY OF DIAGNOSTIC TOOLS IN THE ICU: Mental Status Characteristics Of Patients Who Lack Capacity In The Medical Intensive Care Unit (icu),0,1,0,1
+DELIRIUM AFTER LUNG TRANSPLANTATION: ASSOCIATION BETWEEN THE CAM-ICU AND DISRUPTION OF THE BLOOD BRAIN BARRIER,0.6,0.4,0,1
+DEMOGRAPHIC AND CLINICAL PREDICTORS OF ACUTE CORONARY SYNDROME IN PATIENTS WITH PREHOSPITAL CHEST PAIN AND BENIGN ECG FINDINGS,1,0,1,0
+DIFFERENCE IN PREVALENCE OF PATIENT-VENTILATOR ASYNCHRONY DURING MECHANICAL VENTILATION BETWEEN MODES,0.5,0.5,0,1
+DYNAMIC ECHOCARDIOGRAPHIC CHARACTERISTICS IN PATIENTS WITH HEMODYNAMICALLY RESOLVING SHOCK.: 224-S,0.428571429,0.571428571,0,1
+Daily review of a checklist of ICU guidelines improves adherence to established ICU protocols and objectives,0.5,0.5,0,1
+Data Analysis Pipeline for Ion Mobility Spectrometry-based Proteomics,1,0,0,1
+Decision Making Capacity In The Medical Intensive Care Unit (icu): Care Giver's Impressions Versus A Standardized Modality,0,1,0,1
+Decoding accelerometry for classification and prediction of critically ill patients with severe brain injury,0.285714286,0.714285714,0,1
+"Decoding accelerometry for classification and prediction of critically ill patients with severe brain injury (vol 11, 23654, 2021)",0.285714286,0.714285714,0,1
+Decon2LS: An open-source software package for automated processing and visualization of high resolution mass spectrometry data,0.333333333,0.666666667,0,1
+DeconMSn: a software tool for accurate parent ion monoisotopic mass determination for tandem mass spectra,0,1,0,1
+Decreased Change in Stroke Volume in Patients with Sepsis and Septic Shock,1,0,1,0
+Decreased Incidence of Hospital-Acquired Infections After Implementation of Real-Time Visualization of Nursing Observations,1,0,0,1
+Deep RNA sequencing revealed fusion junctional heterogeneity may predict crizotinib treatment efficacy in ALK-rearranged NSCLC,0.4,0.6,1,0
+Deep multi-modal transfer learning for augmented patient acuity assessment in the intelligent ICU,0.333333333,0.666666667,0,1
+Defining right ventricular dysfunction in acute respiratory distress syndrome,0.5,0.5,1,0
+Definitive Advantages of Point-of-Care Ultrasound: A Case Series,0.8,0.2,1,0
+Degree centrality and fractional amplitude of low-frequency oscillations associated with Stroop interference,0.615384615,0.384615385,0,1
+Delirium in the ICU: time to probe the hard questions,0,1,0,1
+Delirium prediction using machine learning models on predictive electronic health records data,0.4,0.6,0,1
+Depression and heart rate variability in firefighters,1,0,1,0
+Descriptive Comparison of Two Models of Tele-Critical Care Delivery in a Large Multi-Hospital Health Care System,0.4,0.6,1,0
+Design of large scale sensors in 180 nm CMOS process modified for radiation tolerance,1,0,1,0
+Detecting Delirium in Patients in the Surgical Intensive Care Unit: Implementing the Confusion Assessment Method-Intensive Care Unit Tool,0.6,0.4,0,1
+Detecting and Managing Diabetes Mellitus and Prediabetes with HbA1c Measurement in Patients with Acute Stroke,0,1,0,1
+Detecting and managing diabetes mellitus and prediabetes in patients with acute stroke,0,1,0,1
+Determinants of Professional Fulfillment and Burnout Among Intensivists: A National Survey by the Society of Critical Care Anesthesiologists in 2022,0.5,0.5,0,1
+Determinants of prognosis in neurocatastrophes,1,0,0,1
+Determination of 137Cs activity in soil from Qatar using High-Resolution Gamma-ray Spectrometry,1,0,1,0
+Determination of 137Cs activity in soil from Qatar using high-resolution gamma-ray spectrometry,0.785714286,0.214285714,1,0
+Determination of the activity concentration levels of the artificial radionuclideCs in soil samples collected from Qatar using high-resolution gamma-ray spectrometry,0.769230769,0.230769231,1,0
+"Determination of the natural radioactivity levels in north west of Dukhan, Qatar using high-resolution gamma-ray spectrometry",0.916666667,0.083333333,1,0
+Development and External Validation of a Machine Learning Model for Prediction of Potential Transfer to the PICU,0.714285714,0.285714286,0,1
+Development and Validation of a Physiology-Driven Machine Learning Model for Post-Cardiac Arrest Outcome Prediction Using a Large Multi-Center Database,0.25,0.75,0,1
+Development and testing of a radiation-hard large-electrode DMAPS design in a 150 nm CMOS process,1,0,1,0
+Development of Tele-ICU multidimensional severity adjusted PIRO sepsis model (Winner of Critical Care Medicine‚Äôs Administration Specialty Award!),0.333333333,0.666666667,1,0
+Development of a charge pump for sensor biasing in a Serial Powering scheme for the ATLAS pixel detector upgrade,1,0,1,0
+Development of a core outcome set for ventilation trials in neurocritical care patients with acute brain injury: protocol for a Delphi consensus study of international stakeholders,0.285714286,0.714285714,0,1
+"Development of an Advanced Analytics DataMart for Machine Learning, Effectiveness Research, and Population Health Trends",0.285714286,0.714285714,1,0
+"Development, implementation and outcomes of a quality assurance system for the provision of continuous renal replacement therapy in the intensive care unit",0.666666667,0.333333333,1,0
+Diagnostic Yield And Safety Of Electromagnetic Navigational Bronchoscopy: A Single Center Experience,0,1,0,1
+Diagnostic yield of electromagnetic navigational bronchoscopy,0,1,0,1
+Diaphragm plication helps salvage allograft function in lung transplant patients with diaphragm dysfunction,0.4,0.6,0,1
+Differences in gray matter structure correlated to nationalism and patriotism,0.5625,0.4375,0,1
+Diffuse large B-cell lymphoma with secondary hemophagocytic lymphohistiocytosis presenting as acute liver failure,0.25,0.75,0,1
+Diffusion Tensor Imaging to Predict Long-term Outcome Following Cardiac Arrest,0.142857143,0.857142857,0,1
+Diffusion tensor imaging to predict long-term outcome after cardiac arrest: a bicentric pilot study,0.230769231,0.769230769,0,1
+Digital cells radiation hardness study of TPSCo 65 nm CIS technology by designing a ring oscillator,1,0,1,0
+Digital signatures for early traumatic brain injury outcome prediction in the intensive care unit,0.5,0.5,0,1
+DireCt Lung Ultrasound Evaluation (CLUE): a novel technique for monitoring extravascular lung water in donor lungs,0.6,0.4,1,0
+Discharge Disposition and Loss of Independence Among Survivors of COVID-19 Admitted to Intensive Care: Results From the SCCM Discovery Viral Infection and Respiratory Illness ‚Ä¶,1,0,1,0
+Discharge disposition and loss of independence among survivors of COVID-19 admitted to intensive care: results From the SCCM Discovery Viral Infection and Respiratory Illness ‚Ä¶,0.4,0.6,1,0
+Discrepancies in measuring bladder volumes with bedside ultrasound and bladder scanning in the intensive care unit: A pilot study,0.333333333,0.666666667,0,1
+Discriminative microcirculatory screening of patients with refractory limb ischaemia for dorsal column stimulation,1,0,0,1
+"Diurnal, weekly and seasonal variations of chest pain in patients transported by emergency medical services",0,1,1,0
+Do Biomarkers Play A Role On Tendinopathy?: 2432 Board# 268 June 1 930 AM-1100 AM,0.5,0.5,0,1
+Do we have sufficient evidence to support the use of inotropes in patients with sepsis?,1,0,1,0
+Doctoral/graduate,1,0,0,1
+Does advanced treatment of existing physiologic data allow for earlier detection of occult hemorrhage?,1,0,1,0
+Does inpatient hyperglycemia predict a worse outcome in COVID‚Äê19 intensive care unit patients?,0.5,0.5,0,1
+Domain Adaptation for Robust Predictive Modeling Across Racial Groups,1,0,1,0
+Double-blind randomized proof-of-concept trial of canakinumab in patients with COVID-19 associated cardiac injury and heightened inflammation,0.4,0.6,1,0
+Doubly-robust estimation of effect of imaging resource utilization on discharge decisions in emergency departments,1,0,1,0
+Dynamic imaging of D-glucose at 7T: first experiments in human brain,0.5,0.5,0,1
+Dysmenorrhea in Emergency Medicine Clinical,1,0,1,0
+Dysmenorrhea in Emergency Medicine Clinical Presentation,1,0,1,0
+ECG Changes During Neurologic Injury,0,1,1,0
+ECG detection of ACS by convolutional neural network utilizing transfer learning,0,1,1,0
+ECG predictors of mortality among implantable cardioverter-defibrillator candidates for the primary prevention of sudden cardiac death,1,0,1,0
+ECG-Based Risk Stratification of Long-Term Mortality in Suspected Acute Coronary Syndrome,0.25,0.75,1,0
+EFFECT OF ARTERIAL CATHETER ON VASOPRESSOR USE IN PATIENTS WITH SHOCK: A PROPENSITY SCORE MATCHING ANALYSIS ON A MULTI-CENTER RETROSPECTIVE COHORT,0.5,0.5,0,1
+EP3510843A1 Plasma accelerator,0.333333333,0.666666667,1,0
+EXTUBATION FAILURE IN PATIENTS WITH PRIMARY BRAIN INJURY,0.25,0.75,0,1
+Early Diagnosis of Primary Immunodeficiency Disease Using Clinical Data and Machine Learning,0.444444444,0.555555556,0,1
+Early Extracorporeal Membranous Oxygenation (ECMO) Referral Leads to Less ECMO Use,1,0,0,1
+Early detection and disease monitoring of hepatocellular carcinoma using circulating telomere DNA,0.318181818,0.681818182,1,0
+Early detection of deteriorating patients: leveraging clinical informatics to improve outcome,0,1,0,1
+Early functional connectome integrity and 1-year recovery in comatose survivors of cardiac arrest,0.2,0.8,0,1
+Early identification of occult bleeding through hypovolemia detection,1,0,1,0
+Early sepsis detection in critical care patients using multiscale blood pressure and heart rate dynamics,0.25,0.75,1,0
+Early serial echocardiographic and ultrasonographic findings in critically ill patients with COVID-19,0.504854369,0.495145631,1,0
+Echocardiographic Profile of Cirrhotic Patients with Sepsis and Septic Shock,1,0,1,0
+Echocardiographic Profile of Cirrhotic Patients with Sepsis and Septic Shock: A Propensity Score Matched Case-Control Study,0.25,0.75,1,0
+Echocardiographic profiles and hemodynamic response after vasopressin initiation in septic shock: A cross-sectional study,0.6,0.4,1,0
+Economic growth and pollution emission in China: Structural path analysis,0.333333333,0.666666667,1,0
+Effect of IV high-dose vitamin C on mortality in patients with sepsis: a systematic review and meta-analysis of randomized controlled trials,0.75,0.25,1,0
+Effect of Ischemic preconditioning on apoptosis and autophagy: a potential key role in ST-elevation vs. non-ST elevation acute myocardial infarction,0.333333333,0.666666667,1,0
+Effect of Pre-Existing Health and Illness Characteristics on Sepsis Responses and Outcomes,1,0,1,0
+Effect of chlorhexidine/silver sulfadiazine-impregnated central venous catheters in an intensive care unit with a low blood stream infection rate after implementation of an ‚Ä¶,0.666666667,0.333333333,0,1
+Effect of frailty on 6-month outcome after traumatic brain injury: a multicentre cohort study with external validation,0.464,0.536,0,1
+Effect of intravenous anaesthetics on hippocampal long-term potentiation,1,0,0,1
+Effect of lower limb compression devices on thermodilution cardiac output measurement,0.428571429,0.571428571,0,1
+Effect of phenylephrine push before continuous infusion norepinephrine in patients with septic shock,0.25,0.75,0,1
+Effect of the grain size of the soil on the measured activity and variation in activity in surface and subsurface soil samples,0.272727273,0.727272727,1,0
+Effect of the interaction between BDNF Val66Met polymorphism and daily physical activity on mean diffusivity,0.578947368,0.421052632,0,1
+Effect of thiamine administration on lactate clearance and mortality in patients with septic shock,0,1,1,0
+Effectiveness of minocycline and rifampin vs chlorhexidine and silver sulfadiazine-impregnated central venous catheters in preventing central line-associated bloodstream ‚Ä¶,0.5,0.5,0,1
+Effects of inhalation of low-dose nitrite or carbon monoxide on post-reperfusion mitochondrial function and tissue injury in hemorrhagic shock swine,0.444444444,0.555555556,1,0
+Efficacy and safety of an insulin infusion protocol in a surgical ICU,1,0,0,1
+"Efficacy and safety of two neutralising monoclonal antibody therapies, sotrovimab and BRII-196 plus BRII-198, for adults hospitalised with COVID-19 (TICO): a randomised ‚Ä¶",0.595744681,0.404255319,0,1
+Efficacy of intravenous patient-controlled analgesia after supratentorial intracranial surgery: a prospective randomized controlled trial,0,1,0,1
+Egg consumption may improve factors associated with glycemic control and insulin sensitivity in adults with pre-and type II diabetes,0,1,0,1
+Electrical Disturbance From a Systemic Disease,0,1,1,0
+Electro-Fenton degradation of cellulose using graphite/PTFE electrodes modified by 2-ethylanthraquinone,0,1,1,0
+Electrocardiographic Characteristics of Patients Evaluated at the Emergency Department for a Chief Complaint of Chest Pain,0.2,0.8,1,0
+Electrocardiographic Features Associated With Obstructive Sleep Apnea,0,1,1,0
+Electrocardiographic Methods for the Prompt Identification of Coronary Events (EMPIRE): Algorithm Testing & Validation on an Independent Training Cohort,0.25,0.75,1,0
+Electrocardiographic identification of non-ST elevation ischemic events,0.5,0.5,1,0
+Electrocardiographic identification of non-st elevation ischemic events,0.5,0.5,1,0
+Electrocardiographic responses during fire suppression and recovery among experienced firefighters,0.5,0.5,1,0
+Emergency Department Triage Factors Predictive of Acute Coronary Syndrome,0.333333333,0.666666667,1,0
+Emergency Nurses‚Äô Well-Being in Magnet Hospitals and Recommendations for Improvements in Work Environments: A Multicenter Cross-Sectional Observational Study,0.984615385,0.015384615,1,0
+Emergency evaluation of 12-lead ECGs,0.5,0.5,1,0
+Emergency neurological life support: Approach to the patient with coma,1,0,0,1
+Emergency neurological life support: intracranial hypertension and herniation,0.666666667,0.333333333,0,1
+Emerging ECG methods for acute coronary syndrome detection: Recommendations & future opportunities,0.666666667,0.333333333,1,0
+Emerging ECG methods for ischemia detection: Recommendations & future opportunities,1,0,1,0
+End-of-life practices in traumatic brain injury patients: Report of a questionnaire from the CENTER-TBI study,0.6,0.4,0,1
+Endotracheal tube obstruction among patients mechanically ventilated for ARDS due to COVID-19: a case series,0.2,0.8,0,1
+Enfermagem de cuidados intensivos: Diagn√≥stico e interven√ß√£o,1,0,1,0
+Engaging clinicians early during the development of a graphical user display of an intelligent alerting system at the bedside,0.428571429,0.571428571,1,0
+Enhancing Deep Learning in Detecting Acute Myocardial Infarction via Anatomically Informed 12-Lead ECG,0.2,0.8,1,0
+"Enrichment of Mortality Events in Patients With Substance Misuse for Critical Care Research Utilizing Local, State, and National Data Sources",1,0,0,1
+Enteral nutrition administration in a surgical intensive care unit: achieving goals with better strategies,0.6,0.4,0,1
+Epidemiology and predictors of 30-day readmission in patients with sepsis,0.25,0.75,0,1
+Erratum: Rescuing the brain in acute liver failure (Critical Care Medicine (2008) 36 (2212-2213)),1,0,0,1
+Eryrthropoietin and the promise of ischemic multiorgan protection,1,0,0,1
+Esophageal Pressure Measurement: A Primer,0,1,0,1
+Establishment and Evaluation of a Protocol of Coud√© Catheter Placement by Nurses for Urinary Catheterization in Adult Males.,1,0,1,0
+EuPRAXIA conceptual design report,1,0,1,0
+"EuPRAXIA‚Äìa compact, cost-efficient particle and radiation source",1,0,1,0
+Evaluating Sex-Disparities in Machine Learning Decision Support Tools for Acute Coronary Syndrome Classification in the Emergency Department,0,1,1,0
+Evaluating optimal patient-turning procedures for reducing hospital-acquired pressure ulcers (LS-HAPU): study protocol for a randomized controlled trial,0.8,0.2,1,0
+Evaluating the Diagnostic Accuracy of Clinical Risk Scores to Detect Acute Coronary Syndrome in Patients Evaluated at the Emergency Department for a Chief Complaint of Chest Pain,0,1,1,0
+Evaluation and management of shock in patients with COVID-19,0.25,0.75,1,0
+Evaluation of Esophageal Pressures in Mechanically Ventilated Obese Patients,0,1,0,1
+Evaluation of Extreme Bradyarrhythmias in Symptomatic Adults,1,0,1,0
+Evaluation of Heart Function in Non-Fluid Responsive Patients with Septic Shock,1,0,1,0
+Evaluation of High-Frequency Oscillatory Ventilation as a Rescue Strategy in Respiratory Failure,0,1,0,1
+Evaluation of Wide-Complex Tachycardia,0,1,1,0
+Evaluation of beat-to-beat ventricular repolarization lability from standard 12‚Äêlead ECG during acute myocardial ischemia,0,1,1,0
+Evaluation of chemical dot thermometers for measuring body temperature of orally intubated patients,0.4,0.6,0,1
+Evaluation of delivery of enteral nutrition in critically ill patients receiving mechanical ventilation,0.5,0.5,0,1
+Evaluation of organ dysfunction scores for allocation of scarce resources in critically ill children and adults during a healthcare crisis,0.5,0.5,0,1
+Evaluation of the reconstruction-of-difference (RoD) algorithm for cone-beam CT neuro-angiography,1,0,0,1
+Evolving paradigms in the management of severe traumatic brain injury,1,0,0,1
+Exercise-Related Acute Cardiovascular Events and Potential Deleterious Adaptations Following Long-Term Exercise Training: Placing the Risks Into Perspective‚ÄìAn Update: A ‚Ä¶,0.666666667,0.333333333,1,0
+Exercise-related acute cardiovascular events and potential deleterious adaptations following long-term exercise training: placing the risks into perspective‚Äìan update: a ‚Ä¶,0.75,0.25,1,0
+Exploring decision making ‚Äònoise‚Äôwhen interpreting the electrocardiogram in the context of cardiac cath lab activation,0.25,0.75,1,0
+Exploring the complex interactions of baseline patient factors to improve nursing triage of acute coronary syndrome,0.2,0.8,1,0
+Exserohilum Meningitis after Epidural Methylprednisolone Injection,0.3,0.7,0,1
+External Validation of an Acute Respiratory Distress Syndrome Prediction Model Using Clinical Text,1,0,0,1
+External female urinary catheter: implementation in the emergency department,1,0,1,0
+External validation of an acute respiratory distress syndrome prediction model using radiology reports,0.428571429,0.571428571,0,1
+External ventricular drain use is associated with functional outcome in aneurysmal subarachnoid hemorrhage,0.5,0.5,0,1
+Extravascular Lung Water Quantification in Donor Lungs,1,0,1,0
+Extubation in neurocritical care patients: the ENIO international prospective study,0.142857143,0.857142857,0,1
+Extubation strategies in neuro-intensive care unit patients and associations with outcomes: the ENIO multicentre international observational study,0,1,0,1
+FALSE NEGATIVE CT SCAN AMONG PATIENTS WITH ABDOMINAL SEPSIS: ETIOLOGY AND CLINICAL SEQUALAE,0.333333333,0.666666667,0,1
+FPGA-based Image Capture Systemâ€“A SmartCam Initiative,0,1,0,1
+Facilitating the Next Paradigm Shift in Critical Care Through Artificial Intelligence,0,1,1,0
+Factors associated with acute kidney injury in acute respiratory distress syndrome,0.111111111,0.888888889,0,1
+Fairness in the prediction of acute postoperative pain using machine learning models,0.4,0.6,0,1
+Family experience survey in the surgical intensive care unit,0.428571429,0.571428571,0,1
+Fatal COVID-19 is Characterized by Distinct Vasculopathic Features and Increased Congestion of the Alveolar Capillary-Bed,0.583333333,0.416666667,0,1
+Fatal Exserohilum Meningitis and Central Nervous System Vasculitis After Cervical Epidural Methylprednisolone Injection,1,0,0,1
+Fatal Exserohilum Rostratum Meningitis and CNS Vasculitis after Cervical Spine Epidural Methylprednisolone Injection (S16. 001),0.5,0.5,0,1
+"Feasibility of early, motor-assisted cycle ergometry in critically Ill neurological patients with upper limb weakness and variable cognitive status: a case series",1,0,0,1
+Feasibility of mid-frequency ventilation among infants with respiratory distress syndrome,0,1,0,1
+"Febrile Neutropenia Syndromes in Children: Should Management Differ for Primary, Persistent, Recurrent or Engraftment Fever?",0,1,0,1
+Female Hormonal Regulation of pSTAT3 Results in Reduced Mortality Due to Enhanced TGF-Œ≤1-Mediated Pulmonary Fibrosis and Less IL-17A,1,0,0,1
+Fever burden in patients with subarachnoid hemorrhage and the increased use of antibiotics,0.666666667,0.333333333,1,0
+Fifteen cases of endoscopic treatment of acute subdural hematoma with small craniotomy under local anesthesia: endoscopic hematoma removal reduces the intraoperative bleeding â€_,0.571428571,0.428571429,0,1
+First case of rapidly fatal mpox from secondary (household) transmission in a kidney transplant recipient,0.5,0.5,0,1
+First measurements of Trojan Horse injection in a plasma wakefield accelerator,0.888888889,0.111111111,1,0
+Fluid Response Evaluation in Sepsis Hypotension and Shock,0,1,1,0
+"Fluid balance and outcome in critically ill patients with traumatic brain injury (CENTER-TBI and OzENTER-TBI): a prospective, multicentre, comparative effectiveness study",0.405172414,0.594827586,0,1
+Fluid response evaluation in sepsis hypotension and shock: a randomized clinical trial,0,1,1,0
+Fluids in Sepsis Keeping Pace,1,0,1,0
+Forecasting imminent atrial fibrillation in long-term electrocardiogram recordings,0.2,0.8,1,0
+Foreword xiii,1,0,0,1
+Fragmented QRS With Benign Early Repolarization Pattern is a Strong Predictor of Adverse Events in Patients With Suspected Acute Coronary Syndrome,0.333333333,0.666666667,1,0
+Free electron lasers driven by plasma accelerators: status and near-term prospects,1,0,1,0
+Frequency and outcomes of hyperlactatemia after neurosurgery: a retrospective analysis,0.6,0.4,0,1
+From Pictures to Prediction: Combining Data Visualization with Deep Learning to Predict Clinical Deterioration,1,0,0,1
+Fulfilling the Promises of Health Information Technology: Are Metrics Measuring Our Delivered Care?,0.5,0.5,1,0
+Fulfilling the Promises of Health Information Technology: Expect to Maximize Positive Patient Care Outcomes,1,0,1,0
+"Fulfilling the Promises of Health Information Technology: Expect to Maximize Positive Patient Care Outcomes, Advance Analytics and Innovative Research with Tele-Healthcare ‚Ä¶",1,0,1,0
+Fulminant Guillain-Barre syndrome mimicking clinical brain death: A rare condition with bad outcomes,0.666666667,0.333333333,0,1
+Functional Network Coherence in Comatose Survivors of Cardiac Arrest,0.166666667,0.833333333,0,1
+Functional and evolutionary insights from the genomes of three parasitoid Nasonia species,0,1,0,1
+Functional network connectivity in comatose survivors of cardiac arrest (P4. 155),0.2,0.8,0,1
+Functional recovery after moderate,1,0,0,1
+Functional recovery after moderate/severe traumatic brain injury: a role for cognitive reserve?,0.75,0.25,0,1
+Fundamentals and applications of hybrid lwfa-pwfa,0.153846154,0.846153846,1,0
+GERIATRICS MICU CO-MANAGEMENT: INTEGRATING GERIATRIC ASSESSMENTS FOR CRITICALLY ILL PATIENTS,0,1,0,1
+Garrots pneumatiques,1,0,0,1
+Gastric reflux in mechanically ventilated gastric fed ICU patients,0,1,0,1
+Gastric reflux: association with aspiration and oral secretion pH as marker of reflux: a descriptive correlational study,0.25,0.75,0,1
+Gastroesophageal reflux in critically ill patients,0.25,0.75,0,1
+Gender inequity and sexual harassment in the pharmacy profession,0.833333333,0.166666667,1,0
+Gender inequity and sexual harassment in the pharmacy profession: Evidence and call to action executive summary,0.75,0.25,1,0
+Gender inequity and sexual harassment in the pharmacy profession: evidence and call to action,0.75,0.25,1,0
+Gene Expression and Transcription Factor (TF) Activation Profiling Identifies Suppression of Multiple Myeloma (MM) Cell Survival and Chemoresistance Pathways By Inhibition of â€_,0.285714286,0.714285714,0,1
+Generation and acceleration of electron bunches from a plasma photocathode,0.266666667,0.733333333,1,0
+Genetic patterning for child psychopathology is distinct from that for adults and implicates fetal cerebellar development,0.4,0.6,0,1
+Genetics of idiopathic pulmonary fibrosis,0.333333333,0.666666667,0,1
+Geospatial Analysis of Chest Pain Patients That Call 9-1-1,0.25,0.75,1,0
+Getting to zero: Reduction in the incidence of multidrug-resistant organism infections using an integrated infection control protocol in an intensive care unit,0.571428571,0.428571429,0,1
+Glucocorticoid therapy in neurologic critical care,1,0,0,1
+Glycemic Control,0.5,0.5,0,1
+Glycoproteomics: Identifying the Glycosylation of Prostate Specific Antigen at Normal and High Isoelectric Points by LCâ€“MS/MS,0.4,0.6,0,1
+Gut microbiota and metabolites of Î±-synuclein transgenic monkey models with early stage of Parkinsonâ€™s disease,0.3,0.7,1,0
+HEPARIN OR 0.9% SODIUM CHLORIDE FLUSH TO MAINTAIN CENTRAL VENOUS CATHETER PATENCY: A RANDOMIZED TRIAL,0.6,0.4,0,1
+HIDDEN FLUIDS: THE IMPACT OF SMALL VOLUME PARENTERALS,0.4,0.6,1,0
+HIGH FREQUENCY OSCILLATORY VENTILATION FOR CHEST WALL TRAUMA.: 613,1,0,0,1
+HIRA: heart rate interval based rapid alert score to characterize autonomic dysfunction among patients with sepsis-related acute respiratory failure (ARF),0.333333333,0.666666667,1,0
+HOSPITAL FLUID CULTURE IMPACTS OUTCOME IN SEVERE SEPSIS AND SEPTIC SHOCK PATIENTS,0.3,0.7,1,0
+Handbook of neurocritical care,1,0,0,1
+Handbook of respiratory care,0,1,0,1
+Head and neck dermoids,1,0,0,1
+"Head-of-bed elevation and early outcomes of gastric reflux, aspiration and pressure ulcers: a feasibility study",0.4,0.6,0,1
+Health care utilization and outcomes in older adults after Traumatic Brain Injury: A CENTER-TBI study,0.483333333,0.516666667,0,1
+Heart Rate Recovery and Cardiovascular Risk Factors among Firefighters,0.333333333,0.666666667,1,0
+"Heart Rate Recovery, Blood Pressure Recovery, and 24-hour Heart Rate among Firefighters",0,1,1,0
+Heart Rate Variability (HRV) Based Interpretable Machine Learning Algorithm for Prediction of All-cause Acute Respiratory Failure (ARF) Among ICU Patients,1,0,1,0
+Hemodynamic Instability Following Vasopressin Withdrawal In Septic Shock,0.333333333,0.666666667,1,0
+Hemodynamic changes after visual stimulation and breath holding provide evidence for an uncoupling of cerebral blood flow and volume from oxygen metabolism,0,1,0,1
+Hemodynamic instability secondary to vasopressin withdrawal in septic shock,0,1,1,0
+"Hemodynamic instability secondary to vasopressin withdrawal in septic shock [published online July 28, 2017]",1,0,1,0
+Hemodynamic responses following brief breath-holding and visual stimulation reconcile the vascular compliance and sustained oxygen metabolism origins for the BOLD post-stimulus ‚Ä¶,0,1,0,1
+Hemoglobin concentration does not impact 3-month outcome following acute ischemic stroke,1,0,0,1
+Hemophagocytic Lymphohistiocytosis: An Under Recognized But Fatal Disease,0.5,0.5,0,1
+Hemophagocytic Syndrome In Adults: Do The Diagnostic Criteria Apply To The Critically Ill Adult?,0.5,0.5,0,1
+Heparin or 0.9% sodium chloride to maintain central venous catheter patency: a randomized trial,1,0,0,1
+Hepatic ‚ÄúBOLSA‚Äù a novel method of perihepatic wrapping for hemorrhage hepatic ‚ÄúBOLSA‚Äù,0,1,0,1
+Hepatic ‚ÄúBOLSA‚Äù a novel method of perihepatic wrapping for hepatic hemorrhage ‚ÄúBOLSA‚Äù,0,1,0,1
+High-Value Lactate Testing: A Retrospective Cohort Study,1,0,0,1
+Higher class of obesity is associated with delivery of higher tidal volumes in subjects with ARDS,0,1,0,1
+Holiday heart syndrome,1,0,1,0
+Horizon 2020 EuPRAXIA design study,0.993006993,0.006993007,1,0
+Hormonal status and ICU-acquired paresis in critically ill patients,0.555555556,0.444444444,0,1
+Hormonal status in protracted critical illness and in-hospital mortality,0.555555556,0.444444444,0,1
+How do I ventilate patients with ARDS: Goal-directed mode selection,1,0,0,1
+How should acute ischemic stroke be managed in the intensive care unit?,0,1,0,1
+How to prescribe and troubleshoot continuous renal replacement therapy: A case-based review,0,1,1,0
+Human versus computer controlled selection of ventilator settings: An evaluation of adaptive support ventilation and mid-frequency ventilation,0.5,0.5,0,1
+Human vs machine selection of ventilator settings: evaluation of adaptive support ventilation and mid-frequency ventilation,0.5,0.5,0,1
+Hurricane Irma‚Äì‚ÄòNo‚ÄôClinical Impact,0.6,0.4,1,0
+Hyperacute Prediction of Targeted Temperature Management Outcome After Cardiac Arrest,0.333333333,0.666666667,0,1
+Hyperacute prediction of targeted temperature management outcome after cardiac arrest: a computational approach,1,0,0,1
+Hyperglycaemia and apoptosis of microglial cells in human septic shock,0.555555556,0.444444444,0,1
+Hyperglycemia management in hospitalized patients with COVID-19.,0,1,0,1
+Hyperglycemia management in the critically ill patient with COVID-19,1,0,0,1
+Hypoxemia associated with nimodipine in a patient with an aneurysmal subarachnoid hemorrhage,0.333333333,0.666666667,1,0
+ICU NURSE SATISFACTION WITH CONVERSION FROM THE RAMSAY TO RICHMOND AGITATION SEDATON SCALE,0.75,0.25,0,1
+"IMPACT OF EDUCATIONAL ACTIVITIES, DEDICATED RAPID RESPONSE TEAMS, AND QUALITY CASE REVIEWS ON IN-HOSPITAL CARDIAC ARREST",0.5,0.5,0,1
+IMPROVING CAREGIVERS PERCEPTIONS REGARDING PATIENT GOALS OF CARE/END OF LIFE (GOC/EOL) ISSUES FOR THE MULTIDISCIPLINARY CRITICAL CARE TEAM,0.7,0.3,0,1
+IMPROVING PATIENT SAFETY DURING CENTRAL VENOUS ACCESS PROCEDURES: EDUCATION ABOUT FREQUENTLY UNRECOGNIZED TECHNIQUE ERRORS: 244,0.5,0.5,0,1
+INSIDIOUS HARM OF MEDICATION DILUENTS AS A CONTRIBUTOR TO CUMULATIVE VOLUME AND HYPERCHLOREMIA,0.571428571,0.428571429,1,0
+IP123. Gender Differences in Carotid Artery Restenosis Rates Following Surgical Intervention,0.5,0.5,0,1
+Iatrogenic Exserohilum infection of the central nervous system: mycological identification and histopathological findings,0.857142857,0.142857143,0,1
+Identifying infected patients using semi-supervised and transfer learning,0.5,0.5,0,1
+Identifying microRNAs and Their Editing Sites in Macaca mulatta,0.1,0.9,1,0
+Identifying positive social determinants of child mental health in ABCD,0,1,0,1
+Identifying risk factors for pressure injury in adult critical care patients,0.333333333,0.666666667,0,1
+Identifying the Most Important Ecg Predictors of Reduced Ejection Fraction in Patients With Suspected Acute Coronary Syndrome,0.25,0.75,1,0
+Identifying the most important ECG predictors of reduced ejection fraction in patients with suspected acute coronary syndrome,0.4,0.6,1,0
+Impact of Duration of N-Acetylcysteine in Non-Acetaminophen‚ÄìInduced Acute Liver Failure,0.4,0.6,0,1
+Impact of hyperoncotic albumin on duration of vasopressor support in septic shock: a propensity score‚Äìmatched analysis,0.5,0.5,1,0
+"Impact of medium-chain triglycerides on gait performance and brain metabolic network in healthy older adults: a double-blind, randomized controlled study",0.5,0.5,0,1
+Impact of pharmacists to improve patient care in the critically ill: a large multicenter analysis using meaningful metrics with the Medication Regimen Complexity-ICU (MRC-ICU ‚Ä¶,0.575,0.425,1,0
+Impact of protection isolation on the incidence of infection after heart transplantation.,1,0,1,0
+Impact of protocolized diuresis for de-resuscitation in the intensive care unit,0.333333333,0.666666667,1,0
+Impact of structured care systems on mortality in intensive care units,0.5,0.5,0,1
+Impact of structured pathways for postcardiac arrest care: a systematic review and meta-analysis,0.5,0.5,0,1
+Impact of symptom frequency and symptom distress on self-reported quality of life in heart transplant recipients,1,0,1,0
+"Impact of telemedicine on mortality, length of stay, and cost among patients in progressive care units: experience from a large healthcare system",0.5,0.5,1,0
+Implementation of a Housewide Chlorhexidine Gluconate Bathing Program,0.5,0.5,0,1
+Implementation of a mandatory checklist of protocols and objectives improves compliance with a wide range of evidence-based intensive care unit practices,1,0,0,1
+Implementation of a standardized patient/family communication bundle,0.666666667,0.333333333,0,1
+Implementation of a transition insulin protocol to maintain glycemic control after intensive insulin therapy,0.555555556,0.444444444,0,1
+Implementation of an interdisciplinary AACN early mobility protocol,0.833333333,0.166666667,0,1
+Implementation of protocolized care in ARDS improves outcomes,0.1,0.9,0,1
+Implementation of the French law related to the patients' rights and the end of life,1,0,0,1
+Implementing Evidence-Based Practice Multidisciplinary teams implement best practices based on research,1,0,1,0
+Implementing change is a science,1,0,0,1
+Implementing the American Association of Critical-Care Nurses Early Mobility Protocol in 7 Specialty Intensive Care Units,0.75,0.25,0,1
+Improvement in the reproducibility of region of interest using an auditory feedback loop: A pilot assessment using dynamic contrast‚Äêenhanced (DCE) breast MR images,0.5,0.5,0,1
+Improving ICU Risk Predictive Models Through Automation Designed for Resiliency Against Documentation Bias,0.363636364,0.636363636,1,0
+Improving Prehospital Stroke Diagnosis Using Natural Language Processing of Paramedic Reports,0.5,0.5,0,1
+Improving caregivers‚Äô perceptions regarding patient goals of care/end-of-life issues for the multidisciplinary critical care team,0.5,0.5,0,1
+Improving confidence in detection and characterization of protein Nâ€êglycosylation sites and microheterogeneity,0.333333333,0.666666667,0,1
+Improving corrected QT interval monitoring in critical care units: A single center report,0.666666667,0.333333333,1,0
+Improving safety of percutaneous tracheostomy using ultrasound screening,0.428571429,0.571428571,0,1
+Improving the assessment score in spontaneous intracerebral hemorrhage,1,0,0,1
+In Reply: COVID-19 coagulopathy.,0.4,0.6,1,0
+In search of an optimal subset of ECG features to augment the diagnosis of acute coronary syndrome at the emergency department,0.166666667,0.833333333,1,0
+"In: Dolan SA, Felizardo G, Barnes S, Cox TR, Patrick M, Ward KS, Arias KM: APIC position paper: Safe injection, infusion, and medication vial practices in health care. Am J ‚Ä¶",1,0,0,1
+Incidence and Outcomes of Acute Respiratory Distress Syndrome in Brain-Injured Patients Receiving Invasive Ventilation: A Secondary Analysis of the ENIO Study,0.333333333,0.666666667,0,1
+Incidence and Predictors of Delaying Seeking Emergent Medical Care Among Patients With Suspected Acute Coronary Syndrome,0.25,0.75,1,0
+Incidence and prevalence of coma in the UK and the USA,0.4,0.6,0,1
+Incidence of Asynchronies during Invasive Mechanical Ventilation in a Medical ICU,1,0,0.5,0.5
+"Incidence, risk factors, and effects on outcome of ventilator-associated pneumonia in patients with traumatic brain injury: analysis of a large, multicenter, prospective ‚Ä¶",0.416666667,0.583333333,0,1
+Incorporating Early Palliative Medicine Consultation Into Daily Morning Huddle in the ICU,0.5,0.5,0,1
+Incorporation of Serial 12-Lead Electrocardiogram With Machine Learning to Augment the Out-of-Hospital Diagnosis of Non-ST Elevation Acute Coronary Syndrome,0,1,1,0
+Increase in Epinephrine Administration for Food-Induced Anaphylaxis in Pediatric Emergency Departments From 2007 to 2015,0.5,0.5,0,1
+Increased T Wave Amplitude in Lead Avr is a Strong Predictor of Reduced Left Ventricular Ejection Fraction in Suspected Acute Coronary Syndrome,0.5,0.5,1,0
+Increasing cardiovascular data sampling frequency and referencing it to baseline improve hemorrhage detection,0.25,0.75,1,0
+"Increasing sepsis rates in the United States: Results from national inpatient sample, 2005 to 2014",0.2,0.8,1,0
+Index By Author Ab√§cherli R 105 Ab√°solo D 1027 Abdalhamid S 915,0.988235294,0.011764706,1,0
+Individualized Thresholds of Hypoxemia and Hyperoxemia and their Effect on Outcome in Acute Brain Injured Patients: A Secondary Analysis of the ENIO Study,0.285714286,0.714285714,0,1
+Influence of triple-lumen central venous catheters coated with chlorhexidine and silver sulfadiazine on the incidence of catheter-related bacteremia,0.75,0.25,0,1
+Informed consent procedures in patients with an acute inability to provide informed consent: Policy and practice in the CENTER-TBI study,0.430894309,0.569105691,0,1
+Inhaled carbon monoxide protects against the development of shock and mitochondrial injury following hemorrhage and resuscitation,0.454545455,0.545454545,1,0
+"Inhaled, nebulized sodium nitrite protects in murine and porcine experimental models of hemorrhagic shock and resuscitation by limiting mitochondrial injury",0.416666667,0.583333333,1,0
+Initiation of Interventions for Cardiovascular and Respiratory Failure with Community-Acquired vs. Hospital-Acquired Sepsis,1,0,1,0
+Integrating multimodal information in machine learning for classifying acute myocardial infarction,0.25,0.75,1,0
+Intelligent ICU for Autonomous Patient Monitoring Using Pervasive Sensing and Deep Learning,0.333333333,0.666666667,0,1
+Intensive care of aneurysmal subarachnoid hemorrhage: an international survey,1,0,0,1
+Intensive care unit complications and outcomes of adult patients with hemophagocytic lymphohistiocytosis: a retrospective study of 16 cases,0,1,0,1
+Intensive care unit risk scoring,0.5,0.5,0,1
+Interplast-From Stanford to the World Stanford nurses volunteer their skills to bring reconstructive surgery to developing countries,1,0,1,0
+Interpretation of Neurally Adjusted Ventilatory Assist (NAVA) waveforms,0,1,0,1
+Interpretation of Neurally Adjusted Ventilatory Assist (NAVA) waveforms.,0,1,0,1
+Interpretation of Telemetry Among Patients With a Left Ventricular Assist Device,1,0,1,0
+"Intravenous aviptadil and remdesivir for treatment of COVID-19-associated hypoxaemic respiratory failure in the USA (TESICO): a randomised, placebo-controlled trial",0.475609756,0.524390244,0.5,0.5
+"Intravenous patient controlled analgesia safely and effectively treats pain after supratentorial intracranial surgery a prospective, randomized controlled trial",0.166666667,0.833333333,0,1
+Irma-No Clinical Impact,1,0,1,0
+Is Early Vasopressor Safe in Septic Shock?,0.5,0.5,1,0
+Is HEART Score Adequate for Triaging Acute Chest Pain in Cancer Survivors?,0,1,1,0
+Is left ventricular systolic dysfunction associated with increased mortality among patients with sepsis and septic shock?,0.25,0.75,1,0
+Is there an information hierarchy among hemodynamic variables for early identification of occult hemorrhage?,0.125,0.875,1,0
+JACoW: First Measurements of Trojan Horse Injection in a Plasma Wakefield Accelerator,0.2,0.8,1,0
+JACoW: Status of the Horizon 2020 EuPRAXIA conceptual design study,0.313432836,0.686567164,1,0
+Knowledge retention among medical students after simulation-based vs traditional critical care teaching,0.428571429,0.571428571,0,1
+LESION LOCALIZATION IN PAROXYSMAL SYMPATHETIC HYPERACTIVITY,0.6,0.4,0,1
+LIMITING BLOOD LOSS FROM ROUTINE PHLEBOTOMY PRACTICES IN THE ICU,0.5,0.5,0,1
+LIV-4: A novel model for predicting transplant-free survival in critically ill cirrhotics,0.428571429,0.571428571,0,1
+La implementaci√≥n del cambio es una ciencia,1,0,0,1
+Label-free glycopeptide quantification for biomarker discovery in human sera,0.428571429,0.571428571,0,1
+Lack of significant coronary history and ECG misinterpretation are the strongest predictors of undertriage in prehospital chest pain,0.2,0.8,1,0
+Latest Developments and Results of Radiation Tolerance CMOS Sensors with Small Collection Electrodes,1,0,1,0
+Learn to Live Again,0.5,0.5,0,1
+Left ventricular assist device as a bridge to heart transplantation: a case study.,1,0,1,0
+Legionella pneumonia in the ICU: a tertiary care center experience over 10 years,0.5,0.5,0,1
+"Lessons learned from web-and social media-based educational initiatives by pulmonary, critical care, and sleep societies",0.5,0.5,1,0
+Lessons on outbreak preparedness from the Cleveland clinic,0.2,0.8,0,1
+Leveraging clinical data across healthcare institutions for continual learning of predictive risk models,0.5,0.5,1,0
+Levetiracetam pharmacokinetics in subarachnoid hemorrhage patients with augmented renal clearance: a Monte Carlo Simulation.,0.75,0.25,1,0
+Lid rhinosporidiosis-simulating a tumor,1,0,0,1
+Life satisfaction following heart transplantation.,1,0,1,0
+Long-term follow up of renal and other acute organ failure in survivors of critical illness due to covid-19,0.6,0.4,0,1
+Long-term white matter changes after severe traumatic brain injury: a 5-year prospective cohort,0.363636364,0.636363636,0,1
+Longer Time To Draw A Clock Prior to TAVR May Mean Longer Length of Stay and Higher Cost of Care,0.625,0.375,0,1
+Longer Travel Distance to Subspecialty Clinic Associates With Lower Lung Function in Pulmonary Sarcoidosis,1,0,0,1
+Low frequency noise case study: identification and mitigation of a severe infrasonic tone from a mine shaft ventilation fan,1,0,0,1
+Lower lobe lung volume reduction surgery: a case report,0.333333333,0.666666667,0,1
+Ludwig's angina complicated by fatal cervicofascial and mediastinal necrotizing fasciitis,0.5,0.5,0,1
+Lumbar plexus block reduces pain and blood loss associated with total hip arthroplasty,0.333333333,0.666666667,0,1
+Lumen nonpatency in the presence of competing risks,1,0,0,1
+Lung Ultrasonographic Signs in Pulmonary Disease‚ÄìA Video Review,0.5,0.5,1,0
+Lung-protective ventilation and adjunctive strategies to manage respiratory failure: are they safe in the neurological patient?,0,1,0,1
+Lymphocyte-activation gene 3 in non-small-cell lung carcinomas: correlations with clinicopathologic features and prognostic significance,0.75,0.25,0,1
+MODIFYING THE SHOCK INDEX DOES NOT IMPROVE SEPTIC SHOCK PREDICTION IN PATIENTS WITH INFECTION,0.5,0.5,1,0
+MONITORING IN CRITICAL CARE-CE Online and Journal Club Feature-Evaluation of Chemical Dot Thermometers for Measuring Body Temperature of Orally Intubated Patients-In situations ‚Ä¶,0.4,0.6,0,1
+MP55-11 PROSTATE CANCER FOCAL THERAPYâ€“LOCATIONS OF POST-ABLATION DISEASE,0.2,0.8,0,1
+MRI Diffusion-Perfusion Weighted Imaging patterns and induced hypertension therapy in acute ischemic stroke patients,1,0,0,1
+MRI for coma emergence and recovery,0,1,0,1
+MULTI-DISCIPLINARY INTENSIVE CARE REDUCES MORTALITY FOR CRITICALLY ILL PATIENTS WITH CIRRHOSIS,0.428571429,0.571428571,0,1
+Machine Learning for Intensive Care Delirium Prediction,0.6,0.4,0,1
+Machine Learning for the ECG Diagnosis and Risk Stratification of Occlusion Myocardial Infarction at First Medical Contact,0.294117647,0.705882353,1,0
+Machine learning algorithms performed no better than regression models for prognostication in traumatic brain injury,0.454545455,0.545454545,0,1
+Machine learning and clinical informatics for improving HIV care continuum outcomes,0.5,0.5,0,1
+Machine learning based prediction for peptide drift times in ion mobility spectrometry,0.666666667,0.333333333,0,1
+Machine learning can classify vital sign alerts as real or artifact in online continuous monitoring data,0.9,0.1,1,0
+Machine learning for ECG diagnosis and risk stratification of occlusion myocardial infarction,0.333333333,0.666666667,1,0
+Machine learning methods to predict acute respiratory failure and acute respiratory distress syndrome,0,1,1,0
+Machine learning with electrocardiograms: A call for guidelines and best practices for ‚Äòstress testing‚Äôalgorithms,0,1,1,0
+Machine learning-based prediction of acute coronary syndrome using only the pre-hospital 12-lead electrocardiogram,0.222222222,0.777777778,1,0
+Magnetic resonance imaging defines structural brain injury acquired during critical illness,1,0,0,1
+Maintaining Hemodynamic and Metabolic Homeostasis in Anheptaic Critically Ill Patients,0.333333333,0.666666667,0,1
+Major publications in the critical care pharmacotherapy literature: 2019,0.666666667,0.333333333,1,0
+"Malignant arrhythmias in patients with COVID-19: incidence, mechanisms, and outcomes",0.315789474,0.684210526,0,1
+Malignant‚Äêlesion segmentation using 4D co‚Äêoccurrence texture analysis applied to dynamic contrast‚Äêenhanced magnetic resonance breast image data,0,1,0,1
+Management of brain injury after resuscitation from cardiac arrest,0,1,0,1
+Management of necrotizing fasciitis infections,0,1,1,0
+Management of patients with COVID-19 in the MICU.,0.5,0.5,0,1
+Management of postoperative ileus,1,0,1,0
+Mapping siteâ€êspecific protein Nâ€êglycosylations through liquid chromatography/mass spectrometry and targeted tandem mass spectrometry,0.4,0.6,0,1
+Mapping the connectome following traumatic brain injury,0,1,0,1
+Mapping the mouse cell atlas by microwell-seq,0.259259259,0.740740741,1,0
+"Massive transfusion and nonsurgical hemostatic agents (vol 36, pg S325, 2008)",1,0,0,1
+"Mavrilimumab in patients with severe COVID-19 pneumonia and systemic hyperinflammation (MASH-COVID): an investigator initiated, multicentre, double-blind, randomised, placebo ‚Ä¶",0.578947368,0.421052632,1,0
+Mean diffusivity of basal ganglia and thalamus specifically associated with motivational states among mood states,0.533333333,0.466666667,0,1
+Mean diffusivity of globus pallidus associated with verbal creativity measured by divergent thinking and creativityâ€êrelated temperaments in young healthy adults,0.615384615,0.384615385,0,1
+Measurement of Thiamine Levels in Human Tissue,0,1,1,0
+Measuring Fellows' Willingness to Challenge Authority Using an Objective Structured Clinical Examination,0.666666667,0.333333333,1,0
+Mechanical Ventilation in patients with traumatic brain injury: Is it so Different?,0.5,0.5,0,1
+Mechanical ventilation in patients with acute brain injury: recommendations of the European Society of Intensive Care Medicine consensus,0.428571429,0.571428571,0,1
+"Mechanisms of acute right ventricular injury in cardiothoracic surgical and critical care settings, Part 1",0.333333333,0.666666667,1,0
+Mechanisms of acute right ventricular injury in cardiothoracic surgical and critical care settings: part 2,0.363636364,0.636363636,1,0
+Mechanisms of neurologic failure in critical illness,1,0,0,1
+Mechanisms underlying disorders of consciousness: bridging gaps to move toward an integrated translational science,0.5,0.5,0,1
+Medical reversal of transtentorial herniation following acute stroke or spontaneous hemorrhage,0.25,0.75,0,1
+"Medical, ethical, and legal aspects of end-of-life dilemmas in the intensive care unit.",0,1,0,1
+Metabolic Syndrome and Acute Respiratory Distress Syndrome in Hospitalized Patients With COVID-19,1,0,1,0
+Metabolic syndrome and acute respiratory distress syndrome in hospitalized patients with COVID-19,0.512820513,0.487179487,1,0
+Metabolomics-Based Differentiation Between Severe Sepsis and Septic Shock,1,0,1,0
+Methods To Set Tlow In Airway Pressure Release Ventilation-Comparison Of A Mathematical And Mechanical Lung Model,0.333333333,0.666666667,0,1
+Microscopic size measurements in postâ€êneoadjuvant therapy resections of pancreatic ductal adenocarcinoma (PDAC) predict patient outcomes,0.555555556,0.444444444,0,1
+Mid-frequency ventilation: A potential strategy for lung protective neonatal mechanical ventilation,0,1,0,1
+Mid-frequency ventilation: Delivered tidal volume accuracy as compared to conventional ventilation,0.5,0.5,0,1
+Mid-frequency ventilation: unconventional use of conventional mechanical ventilation as a lung-protection strategy,0,1,0,1
+Middle-Aged Woman With Shock,0.666666667,0.333333333,1,0
+Mini-MALTA: radiation hard pixel designs for small-electrode monolithic CMOS sensors for the High Luminosity LHC,1,0,1,0
+Minimizing pharmacotherapy-related healthcare worker exposure to SARS-CoV-2,0.75,0.25,1,0
+Mining the contribution of intensive care clinical course to outcome after traumatic brain injury,0.8,0.2,0,1
+Mining the contribution of intensive care clinical course to outcome after traumatic brain injury.,0.75,0.25,0,1
+Mixed-Integer Projections for Automated Data Correction of EMRs Improve Predictions of Sepsis among Hospitalized Patients,0.2,0.8,1,0
+Mo1521‚ÄìThe Medical Intensive Liver Unit: A Novel Multi-Disciplinary Program for the Intensive Care of Patients with Advanced Liver Disease,0.444444444,0.555555556,0,1
+Modeling of lung function recovery in neuralgic amyotrophy with diaphragm impairment,0,1,0,1
+Modes of mechanical ventilation,0,1,0,1
+Modified HEART score to optimize risk stratification in cocaine-associated chest pain,0.333333333,0.666666667,1,0
+"Monitorizaci√≥n en anestesia, cuidados cr√≠ticos y medicina de urgencia",1,0,1,0
+Morphological prediction of glaucoma by quantitative analyses of ocular shape and volume using 3-dimensional T2-weighted MR images,0.545454545,0.454545455,0,1
+Mortality after critical illness,0.8,0.2,0,1
+Mortality and PICU hospitalization among pediatric gunshot wound victims in Chicago,0.5,0.5,0,1
+Mortality of in-hospital cardiac arrest among patients with and without preceding sepsis: A national inpatient sample analysis,0.75,0.25,1,0
+Multi-Disciplinary Evaluation for Therapeutic Interventions in Patients with Chronic Obstructive Pulmonary Disease,1,0,0,1
+Multi-motion compensation for high-quality cone-beam CT of the head,1,0,0,1
+Multicenter Development and Validation of a Model for Predicting Retention in Care Among People with HIV,0.5,0.5,0,1
+Multicenter study of temporal changes and prognostic value of a CT visual severity score in hospitalized patients with coronavirus disease (COVID-19),0.2,0.8,0,1
+Multicenter validation of the neonatal sequential organ failure assessment score for prognosis in the neonatal intensive care unit,0.5,0.5,0,1
+Multidisciplinary prerounding meeting as a continuous quality improvement tool: leveraging to reduce continuous benzodiazepine use at an academic medical center,0.666666667,0.333333333,1,0
+Multilingual evaluation of interpretable biomarkers to represent language and speech patterns in Parkinson's disease,0.285714286,0.714285714,0,1
+Multimodal Quality Initiatives In Sepsis: Impact On Core Measures And Outcomes.,1,0,0,1
+Multiple organ dysfunction interactions in critically Ill children,0,1,0,1
+Multispectral Co-Occurrence With Three Random Variables in Dynamic Contrast Enhanced Magnetic Resonance,1,0,0,1
+Multispectral co-occurrence with three random variables in dynamic contrast enhanced magnetic resonance imaging of breast cancer,0,1,0,1
+Myocardial Dysfunction After In-Hospital Cardiac Arrest in COVID-19 Patients,0.142857143,0.857142857,1,0
+Myocardial injury in ischemic stroke involving the insular cortex,1,0,0,1
+N-Linked Glycan Profiling in Neuroblastoma Cell Lines,1,0,0,1
+NEED FOR EXPANDED CANDIDA SCORE FOR EMPIRIC ANTIFUNGAL USE IN MEDICAL CRITICALLY ILL PATIENTS?,1,0,1,0
+NEUROLOGIC PROGNOSIS IN COMATOSE TRAUMATIC BRAIN INJURY PATIENTS-A MULTIDISCIPLINARY SURVEY: THE NEUROIMAGING TO PREDICT COMA EMERGENCE AND RECOVERY (NICER) STUDY,1,0,0,1
+Narrative Review: Addressing Covid-19 Vaccine Concerns in Special and Vulnerable Populations,0.5,0.5,1,0
+Nasal orbital dermoid.,1,0,0,1
+Nationwide clinical practice patterns of anesthesiology critical care physicians: A survey to members of the Society of Critical Care Anesthesiologists,0.3,0.7,0,1
+Need for expanded Candida Score for empiric antifungal use in medically critically ill patients?,1,0,1,0
+Network signatures of age-related cognitive decline,0,1,0,1
+Networking and working with a mentor: Keys to eliciting support for clinical research as a staff nurse,1,0,1,0
+Neuroactive steroid alterations in posterior cingulate and parietal cortex in subjects with schizophrenia and bipolar disorder: Potential gender specificity,1,0,0,1
+Neuroactive steroid alterations in schizophrenia and bipolar disorder: A negative ion chemical ionization gas chromatography/mass spectrometry investigation in posterior cingulate,1,0,0,1
+Neuroactive steroid alterations in schizophrenia and bipolar disorder: Negative ion chemical ionization gas chromatography/mass spectrometry investigations in posterior ‚Ä¶,1,0,0,1
+Neuroactive steroids are altered in schizophrenia and bipolar disorder: relevance to pathophysiology and therapeutics,1,0,0,1
+Neuroanatomical basis of paroxysmal sympathetic hyperactivity: a diffusion tensor imaging analysis,0.166666667,0.833333333,0,1
+Neuroanatomical correlates of the sense of control: Gray and white matter volumes associated with an internal locus of control,0.5625,0.4375,0,1
+Neuroanatomical predictors of awakening in acutely comatose patients,1,0,0,1
+Neurocognitive correlates of probable posttraumatic stress disorder following traumatic brain injury,0.4296875,0.5703125,0,1
+Neurologic injury and mechanical ventilation,0,1,0,1
+Neurologic manifestations of severe acute respiratory syndrome coronavirus 2 infection in hospitalized patients during the first year of the COVID-19 pandemic,0.222222222,0.777777778,1,0
+Neurological examination of critically ill patients: a pragmatic approach. Report of an ESICM expert panel,0.4,0.6,0,1
+Neurology of consciousness impairments,0,1,0,1
+Neuromuscular dysfunction acquired during critical illness: a systematic review,1,0,0,1
+Neuromuscular dysfunction acquired in critical illness,1,0,0,1
+"Neuromuscular weakness in chronic obstructive pulmonary disease: chest wall, diaphragm, and peripheral muscle contributions",0,1,0,1
+Neuroprotection in acute brain injury: an up-to-date review,0.272727273,0.727272727,0,1
+New Securement Method Eliminates Nasal Device-Related Pressure Ulcers from Feeding Tubes in Critically Ill Patients,1,0,1,0
+"Newer modes of mechanical ventilation (vol 76, pg 417, 2009)",1,0,0,1
+New‚ÄêOnset Hypothyroidism in a 102‚ÄêYear‚ÄêOld Assisted Living Resident,0.5,0.5,0,1
+Noncanonical gene fusions detected at the DNA level necessitate orthogonal diagnosis methods before targeted therapy,0.5,0.5,1,0
+Noninvasive Positive Pressure Support,1,0,0,1
+Noninvasive positive pressure in acute exacerbations of chronic obstructive pulmonary disease,0.333333333,0.666666667,0,1
+Noninvasive positive pressure ventilation in stable patients with COPD,0,1,0,1
+Nonspecific electrocardiographic abnormalities are associated with increased length of stay and adverse cardiac outcomes in prehospital chest pain,0.428571429,0.571428571,1,0
+Nonurgent commercial air travel after nonhemorrhagic cerebrovascular accident,0.25,0.75,0,1
+Normative references for graphomotor and latency digital clock drawing metrics for adults age 55 and older: operationalizing the production of a normal appearing clock,0.625,0.375,0,1
+Noteworthy Electrocardiographic Changes Following Pharmacologic Treatment of COVID-19,1,0,1,0
+Novel ECG features and machine learning to optimize culprit lesion detection in patients with suspected acute coronary syndrome,0.285714286,0.714285714,1,0
+Novel Mechanism of Synergistic Myeloma Cell Death via Activation of Caspase 10-dependent Apoptosis by Carfilzomib and Selinexor,0.25,0.75,0,1
+Novel approaches to prediction in severe brain injury,0,1,0,1
+Novel technical solutions for wireless ECG transmission & analysis in the age of the internet cloud,0,1,1,0
+Nurse Practitioner‚ÄìDirected Cardio-Diabetes Pilot Program,0.777777778,0.222222222,1,0
+"Nurses‚Äô stress associated with nursing activities and electronic health records: Data triangulation from continuous stress monitoring, perceived workload, and a time motion study",0.5,0.5,0,1
+Nursing workflow change in a COVID-19 inpatient unit following the deployment of inpatient telehealth: observational study using a real-time locating system,0.5,0.5,1,0
+OPERATING A MEDICAL INTENSIVE LIVER UNIT DURING A PANDEMIC,0.333333333,0.666666667,0,1
+Obstetric Emergencies,0,1,0,1
+On the need for standard definitions and education to optimize patient-ventilator interactions,0.5,0.5,0.5,0.5
+One Year Post-Discharge Outcomes After Implementation of an ICU Early Mobility Protocol,0.666666667,0.333333333,0,1
+Optic neuritis due to demyelinating disease.,1,0,0,1
+Optimal Design of Clinical Trials Involving Persons with Disorders of Consciousness,0.333333333,0.666666667,0,1
+Optimization of a 65 nm CMOS imaging process for monolithic CMOS sensors for high energy physics,0.919642857,0.080357143,1,0
+Optimization of extraction and characterization of polysaccharides from medicinal mushroom Ganoderma lucidum using response surface methodology,0.75,0.25,0,1
+Organization of outpatient care after COVID-19 hospitalization,0.509259259,0.490740741,0,1
+Outcome of delirium in critically ill patients: systematic review and meta-analysis.,0.166666667,0.833333333,0,1
+Outcomes After Early Hypotension in Sepsis: A Retrospective Cohort Study,1,0,0,1
+Outcomes after cardiac arrest in Medical Intensive Care Unit: A propensity score matching analysis of COVID-19 MICU vs non COVID-19 MICU cardiac arrest,0,1,0,1
+Outcomes of Extracorporeal Membrane Oxygenation (ECMO) in Severe Legionella Pneumonia,1,0,0,1
+Outcomes of Triggered Geriatric Consults in Medical Intensive Care Unit,1,0,0,1
+Outcomes of severe Legionella pneumonia requiring extracorporeal membrane oxygenation (ECMO),0.666666667,0.333333333,0,1
+Overt and occult hypoxemia in patients hospitalized with COVID-19,0.666666667,0.333333333,1,0
+Overt and occult hypoxemia in patients hospitalized with novel coronavirus disease 2019,0.666666667,0.333333333,1,0
+Overview of featurization techniques used in traditional versus emerging deep learning-based algorithms for automated interpretation of the 12-lead ECG,0,1,1,0
+P411 Using wearable devices to assess pain in inflammatory bowel disease,1,0,0,1
+"P438. Growing Brains in Motion: In-Depth Quality Control of Structural MRI Scans From 5,764 9 to 10-Year-Olds in the Adolescent Brain Cognitive Development (ABCD) Study",0.5,0.5,0,1
+P579 Wearable devices can predict disease activity in inflammatory bowel disease patients,1,0,0,1
+P58. Impact of Genetic and Environmental Risk Factors on ADHD Diagnosis Among School Aged Children in the ABCD Study,0.333333333,0.666666667,0,1
+PD-L1 and granzyme A mRNA expression associated with prognosis and response to immune checkpoint inhibitors in non-small cell lung cancer,0.25,0.75,1,0
+PICU Survivorship: Factors Affecting Feasibility and Cohort Retention in a Long-Term Outcomes Study,0,1,0,1
+PO-02-021 DIRECTION OF REPOLARIZATION IN BASELINE ECG IS PREDICTIVE OF RESPONSE TO CARDIAC RESYNCHRONIZATION THERAPY,0.5,0.5,1,0
+POS-656 THROMBO-ELASTOGRAPHY GUIDED CORRECTION OF COAGULOPATHY PRIOR TO TUNNELED HEMODIALYSIS CATHETER PLACEMENT IN PATIENTS WITH LIVER DISEASE,1,0,1,0
+"POST-ICTAL, AGITATED, AND TACHYCARDIC: A CAN'T MISS DIAGNOSIS AND A DISSECTION OF MULTI-ORGAN PHYSIOLOGY",0.666666667,0.333333333,1,0
+PREDICTION OF ACUTE RESPIRATORY FAILURE REQUIRING MECHANICAL VENTILATION,0.25,0.75,1,0
+PREDICTORS OF PRESSURE INJURY DEVELOPMENT IN CRITICALLY ILL ADULTS,0.333333333,0.666666667,0,1
+Pain and Physical Activity Association in Critically Ill Patients*,0.5,0.5,0,1
+Palliative Care Consultation and End-of-Life Outcomes in Hospitalized COVID-19 Patients,1,0,1,0
+Palliative care consultation and end-of-life outcomes in hospitalized COVID-19 patients,0.307692308,0.692307692,1,0
+Parametric Tolerance Study of Trojan Horse plasma wakefield acceleration scheme,1,0,1,0
+Past Issue,1,0,0,1
+Pathogenicity of Human Metapneumovirus in an Intensive Care Unit Population: A Multicenter Retrospective Cohort Study,1,0,0,1
+Pathological computed tomography features associated with adverse outcomes after mild traumatic brain injury: A TRACK-TBI study with external validation in CENTER-TBI,0.43697479,0.56302521,0,1
+Patient-focused care for the ventilator-dependent patient.,1,0,1,0
+Patients‚Äô and care providers‚Äô perceptions of television-based education in the intensive care unit,1,0,1,0
+Patient‚ÄìVentilator Asynchronies during Polysomnography,0,1,0,1
+Pattern of brain injury in the acute setting of human septic shock,0.375,0.625,0,1
+Peer Reviewers for 2016,0.709677419,0.290322581,1,0
+Peer Reviewers for 2017,0.64,0.36,1,0
+Perception of older adults toward smartwatch technology for assessing pain and related patient-reported outcomes: pilot study,0.333333333,0.666666667,0,1
+Perception of older adults toward smartwatch technology for assessing pain and related patient-reported outcomes: pilot study. JMIR Mhealth Uhealth. 2019 Mar 26; 7 (3): e10044 â€_,1,0,0,1
+Performance and limitations of automated ECG interpretation statements in patients with suspected acute coronary syndrome,0.428571429,0.571428571,1,0
+Perioperative Corticosteroid Administration,0,1,0,1
+Peripheral administration of norepinephrine: a prospective observational study,0.5,0.5,0.5,0.5
+Peroxidase from bioreactor-cultivated Catharanthus roseus cell cultures mediates biosynthesis of Œ±-3'-4'-anhydrovinblastine,1,0,0,1
+Pharmacologic Agents Used During Intubation in the ICU,0.333333333,0.666666667,0,1
+Pharmacologic myocardial protection in patients undergoing noncardiac surgery: a quantitative systematic review,0,1,0,1
+Pharmacological strategies for myocardial protection in patients undergoing non-cardiac surgery: a meta-analysis of randomized controlled trials,1,0,0,1
+Pharmacotherapy in coronavirus disease 2019 and risk of secondary infections: a single-center case series and narrative review,0.75,0.25,1,0
+Phase II trial of sorafenib in metastatic thyroid cancer,0.222222222,0.777777778,0,1
+Phenotyping cognitive impairment using graphomotor and latency features in digital clock drawing test,0.75,0.25,0,1
+Phosphorus-Containing Solutions Reduce Incident Hypophosphatemia and Associate with Better Outcomes in Critically Ill Patients Requiring Continuous Renal Replacement Therapy,1,0,1,0
+"Physician and nurse well-being and preferred interventions to address burnout in hospital practice: factors associated with turnover, outcomes, and patient safety",0.739130435,0.260869565,1,0
+Physiologic Markers of Disease Severity in ARDS,0,1,0,1
+Physiological effects of early incremental mobilization of a patient with acute intracerebral and intraventricular hemorrhage requiring dual external ventricular drainage,1,0,0,1
+Physiological origin for the BOLD poststimulus undershoot in human brain: vascular compliance versus oxygen metabolism,0,1,0,1
+Physiological responses to in-bed cycle ergometry treatment in intensive care unit patients with external ventricular drainage,0.333333333,0.666666667,0,1
+Physiology of Fluid Responsiveness in Sepsis,1,0,1,0
+Pilot balloon malfunction caused by endotracheal tube bite blocker,0.333333333,0.666666667,0,1
+Planning for Tracheostomy? Time to Revisit Goals of Care,0.571428571,0.428571429,0,1
+Plasma Ferritin Level In The Intensive Care Unit,0,1,0,1
+Plasma accelerator,0.333333333,0.666666667,1,0
+Plasma accelerator driven coherent spontaneous emission,1,0,1,0
+Plasma accelerator-based ultrabright x-ray beams from ultrabright electron beams,0,1,1,0
+Plasma biomarkers of inflammation reflect seizures and hemorrhagic activity of cerebral cavernous malformations,0.3,0.7,0,1
+Plasma photocathodes,1,0,1,0
+Plasma photonic spatiotemporal synchronization of relativistic electron and laser beams,0.80952381,0.19047619,1,0
+Plasma wakefield accelerator driven coherent spontaneous emission from an energy chirped electron pulse,1,0,1,0
+Plasma-optical spatiotemporal diagnostics and alignment for electron and laser beams,0.1,0.9,1,0
+Plasmapheresis for refractory pruritus due to drug-induced cholestasis,0.25,0.75,0,1
+Pleural Infection and Gastric Distension: Finding the Connection With Sonographic Inspection,0.5,0.5,1,0
+Point-of-Encounter Assessment: Using Health Belief Model Constructs to Change Grading Behaviors,0,1,0,1
+Point-of-care ultrasonography for the hospitalist.,0.2,0.8,1,0
+Point-of-care ultrasound and COVID-19.,0.5,0.5,1,0
+Polybenzyl glutamate biocompatible scaffold promotes the efficiency of retinal differentiation toward retinal ganglion cell lineage from human-induced pluripotent stem cells,0.1,0.9,1,0
+Pop box methods and systems for assessing risk of pressure related skin injury and determining a recommended treatment thereof,1,0,0,1
+Pose and Illumination in Face Recognition Using Enhanced Gabor LBP & PCA,0,1,0,1
+Positive Impact of Tele-ICU Monitoring on Hospital Mortality and Cost Among Patients in Progressive Care With Cardiovascular Disease: Experience From a Large Healthcare System,0.333333333,0.666666667,1,0
+Posner-Schlossman syndrome--surgical management,1,0,0,1
+Post Guidewire Insertion Ultrasound: A Reliable Tool for Confirmation of Central Venous Cannulatio,0.571428571,0.428571429,0,1
+Post-operative delirium in lung transplant recipients: incidence and associated risk factors and morbidity,0.666666667,0.333333333,0,1
+"Post-stimulus fMRI changes in cerebral blood flow, volume and oxygenation following visual stimulation and breath-hold provide evidence for the hemodynamic response being ‚Ä¶",1,0,0,1
+Postcardiac arrest neurological prognostication with quantitative regional cerebral densitometry,0.166666667,0.833333333,0,1
+"Posted April 18, 2020",0.5,0.5,1,0
+Posterior associative and cingulate Cortex involvement of brain single-photon emission computed tomography (SPECT) imaging in semantic dementia with probable Alzheimer disease â€_,0.444444444,0.555555556,0,1
+Postgraduate education corner,0.25,0.75,0,1
+Potentials and challenges of pervasive sensing in the intensive care unit,0.5,0.5,0,1
+Power-efficient real-time approach to non-wear time detection for smartwatches,0.5,0.5,0,1
+Pre-hospital Aspirin Use and Patient Outcomes in COVID-19: Results from the International Viral Infection and Respiratory Illness Universal Study (VIRUS),1,0,1,0
+Pre-hospital aspirin use and patient outcomes in COVID-19: results from the International Viral Infection and Respiratory Illness Universal Study (VIRUS),0.285714286,0.714285714,1,0
+Preceding functional tooth loss delays recovery from acute cerebral hypoxia and locomotor hypoactivity after murine subarachnoid haemorrhage,0.5,0.5,0,1
+Preceptor development: responses to frequently asked questions from preceptors in academic hospitals,0.833333333,0.166666667,1,0
+Precision medicine for traumatic coma,0,1,0,1
+"Predicting Heart Rate Recovery Based on Depression, Sleep Quality and Vagal Tone in On-Duty Firefighters",0.333333333,0.666666667,1,0
+Predicting Intensive Care Delirium with Machine Learning: Model Development and External Validation,0.666666667,0.333333333,0,1
+Predicting Response to Chemotherapy in Patients With Newly Diagnosed High-Risk Neuroblastoma: A Report From the International Neuroblastoma Risk Group,0.428571429,0.571428571,0,1
+Predicting Transfers to Intensive Care Unit in Hospitalized Children,1,0,0,1
+Predicting anti-cancer treatment-related symptoms in patients with head and neck cancer using a machine learning approach: A scoping review,1,0,1,0
+Predicting neurological outcomes after in-hospital cardiac arrests for patients with Coronavirus Disease 2019,0.714285714,0.285714286,0,1
+Predicting progression to septic shock in the emergency department using an externally generalizable machine-learning algorithm,0.4,0.6,1,0
+Predicting response to chemotherapy in neuroblastoma using deep learning: A report from the International Neuroblastoma Risk Group.,0.428571429,0.571428571,0,1
+Prediction of Acute Respiratory Failure Requiring Advanced Respiratory Support in Advance of Interventions and Treatment: A Multivariable Prediction Model From Electronic ‚Ä¶,0.2,0.8,1,0
+Prediction of Intracranial Hypertension and Brain Tissue Hypoxia Utilizing High-Resolution Data from the BOOST-II Clinical Trial,0.4,0.6,0,1
+Predictive modeling in aneurysmal subarachnoid hemorrhage,1,0,0,1
+Predictors of Emergency Medical Personnel‚Äôs Decision to Transmit or Not to Transmit the Prehospital 12-Lead ECG of Patients With Suspected Acute Myocardial Infarction,0,1,1,0
+Predictors of Long-term Right Ventricular Dysfunction in Acute Respiratory Distress Syndrome Survivors,0.285714286,0.714285714,1,0
+Predictors of Survival in a Large Cohort of Patients With Amyotrophic Lateral Sclerosis,0.5,0.5,0,1
+Predictors of Venous Thromboembolism in Severe COVID-19 Patients: A Retrospective Multi-Center Cohort Study,0.375,0.625,0,1
+Predictors of access to rehabilitation in the year following traumatic brain injury: a European prospective and multicenter study,0.6,0.4,0,1
+Predictors of early progression to severe sepsis or shock among emergency department patients with nonsevere sepsis,0.714285714,0.285714286,1,0
+Predictors of pressure injury development in critically ill adults: a retrospective cohort study,0.5,0.5,0,1
+Prehospital management of traumatic brain injury across Europe: a CENTER-TBI study,0.8,0.2,0,1
+Preload Functional Status and Cardiac Output in Sepsis,1,0,1,0
+Preoperative pulmonary risk assessment,0,1,0,1
+Presence and severity of intensive care unit-acquired paresis at time of awakening are associated with increased intensive care unit and hospital mortality,0.5,0.5,0,1
+Presentation#: V10-01: Teletriage: Application of a Tele-ICU Infrastructure to Enhance Patient Care Experience in the Emergency Department,1,0,1,0
+Pressure Ulcers Caused by Masks During Noninvasive Ventilation Response,0.5,0.5,0,1
+Pressure injuries in critical care patients: a conceptual schema,0,1,0,1
+Pressure injuries in critical care: a survey of critical care nurses,0,1,0,1
+Pressure ulcer incidence in patients wearing nasal-oral versus full-face noninvasive ventilation masks,0.555555556,0.444444444,0,1
+Prevalence and Prognosis of Sepsis-Induced Cardiomyopathy: A Systematic Review and Meta-Analysis,0.571428571,0.428571429,1,0
+Prevalence and prediction of augmented renal clearance in the neurocritical care population,0,1,1,0
+Prevalence and predictors of delay in seeking emergency care in patients who call 9-1-1 for chest pain,0.2,0.8,1,0
+Prevalence of Vitamin D Deficiency in Neuromuscular Disease on Home Mechanical Ventilation: SP53,0.333333333,0.666666667,0,1
+Preventing acute respiratory infections and diarrhoea in child care centres,1,0,0,1
+Primary synovial sarcoma of the lung,0,1,0,1
+Principles and practice of disaster relief: lessons from Haiti,0.333333333,0.666666667,0,1
+Principles and practice of mechanical ventilation,1,0,0,1
+Proceedings of the First Curing Coma Campaign NIH Symposium: Challenging the future of research for coma and disorders of consciousness,0.6,0.4,0,1
+Proceedings of the second curing coma campaign NIH symposium: challenging the future of research for coma and disorders of consciousness,0.638888889,0.361111111,0,1
+Profound hemorrhage in a patient taking herbal products,0,1,0,1
+Prognosis in severe brain injury,0,1,0,1
+Prognostic value of a structural brain MRI score in the acute phase of aneurysmal subarachnoid hemorrhage: A pilot study,0.333333333,0.666666667,0,1
+Prognostic value of electrocardiographic QRS diminution in patients hospitalized with COVID-19 or influenza,0.333333333,0.666666667,0,1
+Progress in DMAPS developments and first tests of the Monopix2 chips in 150 nm LFoundry and 180 nm TowerJazz technology,1,0,1,0
+Progress in hybrid plasma wakefield acceleration,0.266666667,0.733333333,1,0
+Progression of kidney injury with the combination of vancomycin and piperacillin-tazobactam or cefepime in sepsis-associated acute kidney injury,1,0,1,0
+Prolonged Sedation and Delayed Recovery Associated with Hypotensive Events in Patients Receiving Dexmedetomidine for MRI,0.666666667,0.333333333,0,1
+Prolonged anaphylaxis to pfizer coronavirus disease 2019 vaccine: a case report and mechanism of action,0.8,0.2,0,1
+Prone Position Ventilation Is Associated with Better Outcomes in Obese Patients with Moderate to Severe Acute Respiratory Distress Syndrome,1,0,0,1
+Prone position ventilation and the development of pressure ulcers: experience from a tertiary care referral center,0,1,0,1
+Proof Of Concept: Mid-Frequency Ventilation In A Neonatal And Pediatric Live Animal Model,0.4,0.6,0,1
+Proof of concept: digital clock drawing behaviors prior to transcatheter aortic valve replacement may predict length of hospital stay and cost of care,0.5,0.5,0,1
+Propofol Is Not Associated with Worsening Shock During Intubation of Critical Ill Adults: A Retrospective Cohort Study,1,0,0,1
+Prospective evaluation of pain and analgesic use following major elective intracranial surgery,0,1,0,1
+"Prospective, multicenter study of antimicrobial-coated, noncrosslinked, acellular porcine dermal matrix (XenMatrix‚Ñ¢ AB Surgical Graft) for hernia repair in all centers for ‚Ä¶",0.875,0.125,0,1
+Proteomic Coverage Comparison of On-and Off-line LC-IMS-MS with Traditional LC-MS Platforms,0.333333333,0.666666667,0,1
+Proteomic profiling of intact proteins using WAX-RPLC 2-D separations and FTICR mass spectrometry,0.75,0.25,0,1
+Proteomic profiling of naÃ¯ve multiple myeloma patient plasma cells identifies pathways associated with favourable response to bortezomibâ€êbased treatment regimens,0.25,0.75,0,1
+Pseudoneglect in the Clock-Drawing Test in Cognitively Well Older Adults (2917),0.428571429,0.571428571,0,1
+Pulmonary hypertension in pregnancy: critical care management,0.4,0.6,0,1
+Purple urine bag syndrome,0.333333333,0.666666667,0,1
+QRS amplitude variation during monitoring,1,0,1,0
+Quality of life issues following heart transplantation,1,0,1,0
+Quality outcomes in the surgical intensive care unit after electronic health record implementation,1,0,0,1
+Quantitative proteomics of the yeast Hsp70/Hsp90 interactomes during DNA damage reveal chaperone-dependent regulation of ribonucleotide reductase,0.2,0.8,0,1
+Questionnaires vs interviews for the assessment of global functional outcomes after traumatic brain injury,0.422764228,0.577235772,0,1
+Quick Hits,0.4,0.6,1,0
+RESPIRATORY DECOMPENSATION IN POST-OPERATIVE ABDOMINAL SEPSIS,0.4,0.6,0,1
+Racial Disparities in Maternal Hypertension and Pregnancy Outcomes a Population-Based Study,0.428571429,0.571428571,1,0
+Radiation hard monolithic CMOS sensors with small electrodes for High Luminosity LHC,0.972972973,0.027027027,1,0
+Randomised comparison of placement of umbilical arterial catheters in Respiratory Distress Syndrome.,1,0,0,1
+Randomized Clinical Trials or Convenient Controls: TREWS or FALSE?,0,1,1,0
+Rapid sample processing for LC-MS-based quantitative proteomics using high intensity focused ultrasound,0,1,0,1
+"Rationale, development, and implementation of the electrocardiographic methods for the Prehospital identification of non-ST elevation myocardial infarction events (EMPIRE)",0,1,1,0
+Re: Hospital-Acquired Pressure Injuries in Critical and Progressive Care: Avoidable Versus Unavoidable,0,1,0,1
+Real-time fMRI in neuroscience research and its use in studying the aging brain,0.333333333,0.666666667,0,1
+Real‚Äêtime tracheal ultrasound for the confirmation of endotracheal intubations in the intensive care unit: an observational study,0,1,0,1
+Rebound thymic hyperplasia after pneumonectomy and chemotherapy for primary synovial sarcoma,0,1,0,1
+"Recent measurements on MiniMALTA, a radiation hard CMOS sensor with small collection electrodes for ATLAS",0.666666667,0.333333333,1,0
+"Recommendations for good clinical practice concerning law number 2005-370 of April 22, 2005 relative to the treatment of disease at the end of life",1,0,0,1
+Recommendations for good clinical practice concerning the application of Law No 2005-370 of April 2005 concerning the rights of patients at the end of life,1,0,0,1
+Recommendations from the Working Group on Neuroimaging,0.5,0.5,0,1
+Reducing time on the ventilator using the ABCDEF bundle,1,0,1,0
+Refractory Hypoxia in a Mechanically Ventilated Patient,0.75,0.25,1,0
+Regional Disparities of Molecular Profiles and Cell Compositions in the Lungs of Idiopathic Pulmonary Fibrosis Patients,1,0,0,1
+Regional gray matter density associated with cognitive reflectivityâ€“impulsivity: Evidence from voxel-based morphometry,0.555555556,0.444444444,0,1
+Regional gray matter density is associated with achievement motivation: evidence from voxel-based morphometry,0.583333333,0.416666667,0,1
+Regional gray matter density is associated with morningnessâ€“eveningness: Evidence from voxel-based morphometry,0.5625,0.4375,0,1
+Registered nurses' experiences with urinary catheter insertion: A qualitative focus group study.,0.5,0.5,1,0
+Relation between QRS-T Angle and Blood Pressure during Exercise Stress Test in On-Duty Firefighters,0.333333333,0.666666667,1,0
+Relationship of Dynamic Point-of-Care Assessment to Fluid Administration and Outcomes in Septic Shock,1,0,1,0
+Relative adrenal insufficiency in the critical care setting: debunking the classic myth,0.333333333,0.666666667,0,1
+Remote and wearable ECG devices with diagnostic abilities in adults: A state-of-the-science scoping review,0,1,1,0
+Reply to: The Effectiveness of Prophylactic Use of HFNC and NIPPV on Reintubation: Concerning the Heterogeneity of ABI Patients,0.333333333,0.666666667,0,1
+Repolarization Abnormalities in Young Athletes,0,1,1,0
+Repolarization Dispersion on the Prehospital 12-Lead ECG Predicts Ischemic Myocardial Injury in Chest Pain Patients,0.2,0.8,1,0
+Report of the Accelerator Frontier Topical Group 6 on Advanced Accelerator Concepts for Snowmass 2021,1,0,1,0
+Republished: Society for Neuroscience in Anesthesiology and Critical Care expert consensus statement: Anesthetic management of endovascular treatment for acute ischemic stroke,0,1,0,1
+Research during fellowship: ten commandments,0,1,0,1
+Research needs for prognostic modeling and trajectory analysis in patients with disorders of consciousness,0.166666667,0.833333333,0,1
+Respiratory System Physiology,0.5,0.5,0.5,0.5
+Respiratory support in patients with amyotrophic lateral sclerosis,0,1,0,1
+Response-Pain control after craniotomy: Off balance on the tightrope?,0,1,0,1
+Resting brain activity in disorders of consciousness: a systematic review and meta-analysis,0,1,0,1
+Resting state functional connectivity associated with trait emotional intelligence,0.615384615,0.384615385,0,1
+Retrospective review of postoperative glycemic control in patients after distal pancreatectomy,0,1,0,1
+Reversal of transtentorial herniation with hypertonic saline,0.75,0.25,0,1
+Revisiting ultrasound-guided subclavian/axillary vein cannulations: importance of pleural avoidance with rib trajectory,0.333333333,0.666666667,0,1
+Rhinosporidiosis in Children,1,0,0,1
+Right Ventricle-to-Left Ventricle Diameter Ratio Is a Poor Surrogate of RV Dysfunction in Patients with Left Ventricular Hypertrophy,1,0,0,1
+Risk factors for critical Coronavirus Disease 2019 and mortality in hospitalized young adults: an analysis of the society of critical care medicine discovery viral infection ‚Ä¶,0.519480519,0.480519481,1,0
+Risk factors for pneumonia due to beta-lactam-susceptible and beta-lactam-resistant Pseudomonas aeruginosa: a case‚Äìcase‚Äìcontrol study,0.333333333,0.666666667,0,1
+Roamm: A software infrastructure for real-time monitoring of personal health,0.6,0.4,0,1
+Role of wearable accelerometer devices in delirium studies: A systematic review,0.666666667,0.333333333,0,1
+Rough Transfers as a Metric That Can Be Used to Assess Opportunity to Reduce Mortalities Via Early Warning Scores,1,0,0,1
+Runx3 mediates resistance to intracellular bacterial infection by promoting IL12 signaling in group 1 ILC and NCR+ ILC3,0.666666667,0.333333333,1,0
+S. American Thoracic,1,0,0,1
+S3595 Acute Upper Gastrointestinal Bleeding Masquerading as a Demand ST-segment Elevation Myocardial Infarction,0.333333333,0.666666667,1,0
+SAT-266 A Retrospective Study Investigating the Association Between ADHD and Glycemic Control in Children and Adolescents with Type 1 Diabetes Mellitus,0.666666667,0.333333333,0,1
+SLEEP QUALITY AND SLEEP PATTERNS OF ON-DUTY PROFESSIONAL FIREFIGHTERS,1,0,1,0
+SMALLELECTRODESIZEFORTHEATLASEXPERIMENTINTHEHL-LHC,1,0,1,0
+STATUS OF THE HORIZON 2020 EuPRAXIA CONCEPTUAL DESIGN STUDY,1,0,1,0
+Safety and efficacy of nurse-inserted transesophageal Doppler probe.(Poster Abstracts),1,0,0,1
+Safety and feasibility of a neuroscience critical care program to mobilize patients with primary intracerebral hemorrhage,1,0,0,1
+Safety of bedside placement of tunneled dialysis catheter in COVID-19 patients,0,1,0,1
+Self-aggregating TIAF1 in lung cancer progression,0.142857143,0.857142857,1,0
+Self-reported change in physical symptoms from cyclosporine-based therapy to azathioprine-based therapy in heart transplant recipients.,1,0,1,0
+Semi automated adjudication of vital sign alerts in step-down units,1,0,1,0
+Sepsis and septic shock: Guideline-based management,0.333333333,0.666666667,1,0
+Sepsis-associated encephalopathy and its differential diagnosis,0.8,0.2,0,1
+Septic Pulmonary Emboli-A Cause For Recurrent Bilateral Pneumothorax,0.25,0.75,0,1
+Septic pulmonary emboli causing recurrent bilateral pneumothoraces in a patient with right sided endocarditis: a case report and review of literature,0.5,0.5,0,1
+Septic-associated encephalopathy-everything starts at a microlevel,0.666666667,0.333333333,0,1
+Serial daily organ failure assessment beyond ICU day 5 does not independently add precision to ICU risk-of-death prediction,0.5,0.5,1,0
+Serial measurements of protein biomarkers in sepsis-induced acute respiratory distress syndrome,0.333333333,0.666666667,1,0
+Serum Troponin Is Not Associated with In-Hospital Mortality in Suspected Sepsis: A Retrospective Cohort Study,1,0,0,1
+Severe acute respiratory syndrome‚Äìassociated coronavirus 2 infection and organ dysfunction in the ICU: Opportunities for translational research,0.5,0.5,1,0
+Sex-related differences in the effects of sleep habits on verbal and visuospatial working memory,0.533333333,0.466666667,0,1
+Shifting Pneumothorax: A Radiographic and Sonographic Evaluation,0.5,0.5,0,1
+Shortness of breath after a choking incident,0.5,0.5,0,1
+Should Paramedics Withhold Nitroglycerin in Patients With Prehospital Chest Pain Who Are Tachycardiac?,0.25,0.75,1,0
+Should Spinal Anesthesia Be Performed in Patients with Multiple 43 Sclerosis?,0,1,0,1
+Should a tidal volume of 6 mL/kg be used in all patients?,0,1,0,1
+Should airway pressure release ventilation be the primary mode in ARDS?,0,1,0,1
+Shunt Regulator for the Serial Powering of the ATLAS CMOS Pixel Detector Modules,0.875,0.125,1,0
+Significance of B-type natriuretic peptide in acute cerebrovascular disease,1,0,0,1
+Significance of parenchymal brain damage in patients with critical illness,0.25,0.75,0,1
+Significance of serum N-terminal pro-B-type natriuretic peptide in patients with acute cerebrovascular diseases,1,0,0,1
+Significance of triphasic waves in patients with acute encephalopathy: a nine-year cohort study,0,1,0,1
+Similar ECG Features in 2 Different Diagnoses,1,0,1,0
+Simulaci√≥n y habilidades avanzadas para mejorar el manejo del paciente cr√≠tico,0,1,0,1
+Simulation and advanced skills to improve the management of the critically ill patient,0,1,0,1
+Simulation results for PLATO: a prototype hybrid X-ray photon counting detector with a low energy threshold for fusion plasma diagnostics,1,0,1,0
+Single Drug Approach With Edoxaban Is Effective and Safe for the Patients With Venous Thromboembolism,0.625,0.375,0,1
+Single-stage plasma-based correlated energy spread compensation for ultrahigh 6D brightness electron beams,0.923076923,0.076923077,1,0
+Sinus bradycardia associated with daclizumab in liver transplant recipients: report of 3 cases.,0.285714286,0.714285714,0,1
+Sleep in amyotrophic lateral sclerosis,0,1,0,1
+"Sleep problems, depression, substance use, social bonding, and quality of life in professional firefighters",1,0,1,0
+Small vessel disease and the resting functional architecture of the brain,0,1,0,1
+Society for Neuroscience in Anesthesiology and Critical Care Expert consensus statement: anesthetic management of endovascular treatment for acute ischemic stroke*: endorsed by ‚Ä¶,0,1,0,1
+Sorafenib has clinical activity against metastatic papillary thyroid cancer but requires close monitoring and aggressive management of drug toxicity,1,0,0,1
+"Spatial and functional relationships among Pol V-associated loci, Pol IV-dependent siRNAs, and cytosine methylation in the Arabidopsis epigenome",0.333333333,0.666666667,0,1
+Spatial indices of repolarization correlate with non-ST elevation myocardial ischemia in patients with chest pain,0.230769231,0.769230769,1,0
+Spontaneous echo contrast in venous ultrasound of severe COVID-19 patients,0.333333333,0.666666667,1,0
+Sports Participation Mitigates Genetic Risk for Psychopathology via Hippocampal Volume Differences in School-Aged Children,0.666666667,0.333333333,0,1
+Spread Through Air Spaces (STAS) in Stage 1 Lung Adenocarcinoma: Comparison of Its Prevalence and Prognostic Significance between Two Academic Institutions,0.428571429,0.571428571,0,1
+Stable and high-quality electron beams from staged laser and plasma wakefield accelerators,0.958333333,0.041666667,1,0
+Stable versus dynamic cardiac symptom characteristics are associated with adverse outcomes among individuals transported by ambulance for suspected acute coronary syndrome,0.666666667,0.333333333,1,0
+Status of the Horizon 2020 EuPRAXIA conceptual design study,0.593984962,0.406015038,1,0
+Status of the Horizon 2020 EuPRAXIA conceptual design studyThis work was supported by the European Union‚Äôs Horizon 2020 Research and Innovation programme under grant agreement ‚Ä¶,1,0,1,0
+Stress cardiomyopathy in critical care: A case series of 109 patients,0.333333333,0.666666667,0,1
+Stroke Severity Scales Do Not Predict Adverse Hospital Outcome Variables In Young Stroke Patients: Results From A Regional Stroke Center Of Excellence,0.5,0.5,1,0
+Stroke Severity Scales Do Not Predict Adverse Hospital Outcome Variables In Young Stroke Patients: Results From A RegionalStroke Center Of Excellence,0.5,0.5,1,0
+Strong cation exchange LC peptide retention time prediction and its application in proteomics,0.571428571,0.428571429,0,1
+"Studies for low mass, large area monolithic silicon pixel detector modules using the MALTA CMOS pixel chip",1,0,1,0
+Successful extracorporeal CPR of a patient with a bulky mediastinal mass and acute airway compromise,0.333333333,0.666666667,0,1
+Successful placement of a right ventricular assist device for treatment of a presumed amniotic fluid embolism,0.2,0.8,0,1
+Successful treatment of pulmonary mucormycosis (Lichtheimia spp.) in a post-partum patient with COVID-19 ARDS requiring extra-corporeal membrane ‚Ä¶,0.2,0.8,0,1
+Sudden onset of dyspnea preceded by shoulder and arm pain,0,1,0,1
+Supplemental Oxygen is Associated With Larger Infarct Size but Not Excess Risk of Adverse Cardiac Events in Non-st Elevation Myocardial Infarction,0.25,0.75,1,0
+Supplementary Table 1. Studies evaluating RV dysfunction in sepsis and septic shock,1,0,1,0
+Surge capacity and capability of intensive care units across a large healthcare system: An operational blueprint for regional integration,0.333333333,0.666666667,0,1
+"Surgery versus conservative treatment for traumatic acute subdural haematoma: a prospective, multicentre, observational, comparative effectiveness study",0.43697479,0.56302521,0,1
+Survey of officialsâ€™ awareness on circular economy development in China: Based on municipal and county level,0.142857143,0.857142857,1,0
+Survival after an ICU hospitalization for pulmonary hypertension,0.5,0.5,0,1
+Sustainability investigation of resource-based cities in northeastern China,0.142857143,0.857142857,1,0
+Sustained effects of a clinical decision support system for acute kidney injury,0.25,0.75,0,1
+Symptomatic Bradycardia in a Young Adult After Camping,1,0,1,0
+Synchronous colon carcinomas: molecular-genetic evidence for multicentricity,0,1,0,1
+Syncope and Cardiac Rhythms,1,0,1,0
+Syncope from a twiddled ICD,0.5,0.5,0,1
+Synergistic Myeloma Cell Death via Novel Intracellular Activation of Caspase-10â€“Dependent Apoptosis by Carfilzomib and Selinexor,0.285714286,0.714285714,0,1
+System for radiation therapy,0,1,1,0
+T Peak-T End Interval on the Prehospital 12-lead ECG is a Strong Predictor of Adverse Cardiac Events in Patients With Suspected Acute Coronary Syndrome,0.2,0.8,1,0
+T-wave amplitude changes,1,0,1,0
+THE CLINICAL SIGNIFICANCE OF FRAGMENTED QRS AND WIDENED QRS-T ANGLE IN SYSTOLIC DYSFUNCTION: NOVEL INSIGHTS USING NON-INVASIVE IMPEDANCE CARDIOGRAPHY,1,0,1,0
+TRAUMATIC BRAIN INJURY PATIENT TRAJECTORIES IN THE ICU: FULL-CONTEXT MODELLING WITH ARTIFICIAL INTELLIGENCE FOR DYNAMIC ORDINAL PROGNOSES,0.25,0.75,0,1
+TWO CASES OF FATAL BACTERIAL ENDOCARDITIS IN ADULTS WITH CORRECTED CHD,0.333333333,0.666666667,0,1
+Technical Design Report for the ATLAS inner Tracker pixel detector,1,0,1,0
+Teenage All-Terrain Vehicle Crashes: Helmet Non-compliance and Traumatic Brain Injury,0,1,0,1
+"Telemedicine Is Medicine, Tele-ICU Is ICU, and Tele-Healthcare Is Healthcare",1,0,1,0
+Telemedicine intensive care unit nursing interventions to prevent failure to rescue,1,0,1,0
+Temporal complexity of depolarization indicates myocardial sympathetic denervation and predicts sudden cardiac arrest in patients with ischemic cardiomyopathy and poor left ‚Ä¶,0.4,0.6,1,0
+Temporal muscle as an indicator of sarcopenia is independently associated with hunt and kosnik grade on admission and the modified rankin scale score at 6 months of patients â€_,0.666666667,0.333333333,0,1
+Temporal muscle thickness and area with various characteristics data of the patients with aneurysmal subarachnoid hemorrhage who underwent endovascular coiling,0.666666667,0.333333333,0,1
+Tension posterior pneumomediastinum in acute respiratory distress syndrome due to COVID-19,0.333333333,0.666666667,0,1
+Textbook of neurointensive care,1,0,0,1
+Textbook of post-ICU medicine: the legacy of critical care,0,1,0,1
+Texture Based Computer Aided Malignant Lesion Segmentation of MR Mammography Images Compared With Majority of Manual Segmentations,1,0,0,1
+The Association Between Patient Outcomes and the Initial Emergency Severity Index Triage Score in Patients with Suspected Acute Coronary Syndrome.,0.2,0.8,1,0
+The Effect of Lumbar Plexus Block on Blood Loss and Postoperative Pain,0,1,0,1
+The Effect of Pre-existing Health Aand Illness Characteristics on Sepsis Responses and Outcomes in Intensive Care Unit Patients,1,0,1,0
+The Effect of Tele-ICU Innovation on Progressive Care Unit,0.285714286,0.714285714,1,0
+"The Effect of Tele-ICU Innovation on Progressive Care Unit Patient Population""(2015)",0.285714286,0.714285714,1,0
+The Heart Point Sign: An Ultrasonographic Confirmation Of Pneumothorax,0.25,0.75,0,1
+The Hemodynamic Determinants and Physiologic Correlates of QTc Interval Using Impedance Cardiography in Heart Failure,0.333333333,0.666666667,1,0
+The ICU Bundle Board: A Novel Real-Time Data Visualization Tool to Improve Maintenance Care for Invasive Catheters.,0.454545455,0.545454545,0,1
+The Impact of Asthma and Metabolic Syndrome in COVID-19: An Analysis of the Virus COVID-19 Registry,1,0,1,0
+The Impact of Right Ventricular Dysfunction on the Mortality in Patients with Acute Respiratory Distress Syndrome: A Systematic Review and Meta-Analysis.,0.5,0.5,1,0
+The Independent Association of Mechanical Ventilation with Septic Shock Severity,1,0,1,0
+The Journal of Acute and Critical Care,0.636363636,0.363636364,0,1
+The Medical Intensive Liver Unit: A Novel Multi-disciplinary Program For The Intensive Care Of Patients With Advanced Liver Disease,1,0,0,1
+The Natural History Of Lung Function After Initiation Of Non-Invasive Ventilation In A Large Cohort Of Patients With Amyotrophic Lateral Sclerosis,0.5,0.5,0,1
+The Neighborhood Effect: Is Critical Illness Contagious On Hospital Wards?,0.666666667,0.333333333,0,1
+The Prevalence of Secondary Repolarization Abnormalities Confounding the Electrocardiographic Diagnosis of Acute Myocardial Ischemia in Patients Presenting With Chest Pain,0.4,0.6,1,0
+The Role of Machine Learning-Based Decision Support Tools for Diagnosing and Assessing Congenital Heart Disease,0.666666667,0.333333333,1,0
+The Selvester QRS Score is more accurate than Q waves and fragmented QRS complexes using the Mason-Likar configuration in estimating infarct volume in patients with ischemic ‚Ä¶,0.5,0.5,1,0
+The Surgical Intensive Care Unit Family Experience Survey: Integrating the Patient/Family Perspective Into ICU Quality Improvement,0.428571429,0.571428571,0,1
+The Transcription Factor ThPOK Regulates ILC3 Lineage Homeostasis and Function During Intestinal Infection,0.5,0.5,1,0
+The UCSF ventricular tachycardia database: Development and annotation protocol,0.571428571,0.428571429,1,0
+The Use of ICU Assessments to Predict Discharge Home,0,1,0,1
+The VEGF gene polymorphism impacts brain volume and arterial blood volume,0.578947368,0.421052632,0,1
+The acutely brain-injured patient: Consciousness and neuroethic,1,0,0,1
+The anterior midcingulate cortex as a neural node underlying hostility in young adults,0.5625,0.4375,0,1
+The association between Chance fractures and intra-abdominal injuries revisited: a multicenter review,0,1,0,1
+"The associations among the dopamine D2 receptor Taq1, emotional intelligence, creative potential measured by divergent thinking, and motivational state and these associations â€_",0.6,0.4,0,1
+The brain‚Äìlung‚Äìbrain axis,0,1,0,1
+"The burden of firearm injuries on the hospital system, 2000â€“2020",0.5,0.5,0,1
+"The curing coma campaign international survey on coma epidemiology, evaluation, and therapy (COME TOGETHER)",0.363636364,0.636363636,0,1
+The curing coma campaign: framing initial scientific challenges‚Äîproceedings of the first curing coma campaign scientific advisory council meeting,0.352941176,0.647058824,0,1
+The diagnosis of stroke in patients with critical illness,1,0,0,1
+The effect of arginine-vasopressin (AVP) on hepatic and intestinal microcirculation in porcine endotoxic shock,1,0,0,1
+The effect of sensor placement and number on physical activity recognition and energy expenditure estimation in older adults: Validation study,0.4,0.6,0,1
+"The efficacy of intravenous patient-controlled analgesia after intracranial surgery of the posterior fossa: a prospective, randomized controlled trial",0.142857143,0.857142857,0,1
+The epidemiology of critical illness brain dysfunction,0,1,0,1
+The first day in ARDS care: your first steps should be your best,0,1,0,1
+The functional connectivity and neuropsychology underlying mental planning operations: data from the digital clock drawing test,0.833333333,0.166666667,0,1
+The future of neurocritical care research: proceedings and recommendations from the fifth neurocritical care research network conference,1,0,0,1
+"The impact of a simple, low-cost oral care protocol on ventilator-associated pneumonia rates in a surgical intensive care unit",0,1,0,1
+The impact of bedside behavior on catheter-related bacteremia in the intensive care unit,0,1,0,1
+The impact of right ventricular injury on the mortality in patients with acute respiratory distress syndrome: a systematic review and meta-analysis,0.5,0.5,1,0
+The impact of the state of Ohio stay-at-home order on non-COVID-19 intensive care unit admissions and outcomes,0.333333333,0.666666667,0,1
+The leap to ordinal: Detailed functional prognosis after traumatic brain injury with a flexible modelling approach,0.5,0.5,0,1
+The leap to ordinal: functional prognosis after traumatic brain injury using artificial intelligence,0.6,0.4,0,1
+"The neurological injury motion sensing (NIMS) project: quantifying, decoding, and validating accelerometry features in the neurocritical care setting",0,1,0,1
+The performance of diagnostic criteria for hemophagocytic lymphohistiocytosis in critically ill patients,0.5,0.5,0,1
+The prognostic value of HEART score in patients with cocaine associated chest pain: an age-and-sex matched cohort study,0.333333333,0.666666667,1,0
+The quantitative changes in the yeast Hsp70 and Hsp90 interactomes upon DNA damage,0.2,0.8,0,1
+The relationship between norepinephrine equivalent dose of vasopressors within 24 hours from the onset of septic shock and in-hospital mortality rate,0.666666667,0.333333333,1,0
+The role of automated 12-lead ECG interpretation in the diagnosis and risk stratification of cardiovascular disease,0,1,1,0
+The role of cardiac imaging in hospitalized COVID-19-positive patients.,0.5,0.5,1,0
+"The role of heart rate variability, heart rate turbulence, and deceleration capacity in predicting cause-specific mortality in chronic heart failure",0,1,1,0
+The role of imaging in acute brain injury,1,0,0,1
+The role of mechanical ventilation in acute brain injury,0,1,0,1
+"The subspecialty of neurologic critical care has come of age. In years past, neuro",0,1,0,1
+The team,1,0,1,0
+The use of physical therapy ICU assessments to predict discharge home,0.666666667,0.333333333,0,1
+The utility of ultrasound (US) during internal jugular vein (IJV) catheter placement to avoid thromboembolic complications,0.5,0.5,0,1
+"Thelan's Critical Care Nursing: Diagnosis and Management. St. Louis, MO",1,0,1,0
+Thelan's critical care nursing-diagnosis and management. Philadelphia,1,0,1,0
+Thelan‚Äôs critical care nursing,1,0,1,0
+Thelan‚Äôs critical care nursing: Diagnosis and management. St Louis: Mosby,1,0,1,0
+Theophylline toxicity leading to suicidal ideation in a patient with no prior psychiatric illness,0.333333333,0.666666667,0,1
+Therapeutic Zfra4-10 or WWOX7-21 peptide induces complex formation of WWOX with selective protein targets in organs that leads to cancer suppression and spleen cytotoxic memory â€_,0.277777778,0.722222222,1,0
+Therapies to restore consciousness in patients with severe brain injuries: a gap analysis and future directions,0.5,0.5,0,1
+Three‚Äêdimensional whole‚Äêbrain perfusion quantification using pseudo‚Äêcontinuous arterial spin labeling MRI at multiple post‚Äêlabeling delays: accounting for both arterial transit ‚Ä¶,0,1,0,1
+Thromboembolic events and role of point of care ultrasound in hospitalized Covid-19 patients needing intensive care unit admission,0.166666667,0.833333333,0,1
+Tidal volume measurement error in pressure control modes of mechanical ventilation: a model study,0,1,0,1
+Time From Hospital Admission to Onset of Septic Shock is Associated with Higher In-Hospital Mortality,0.25,0.75,1,0
+Time from hospital admission to onset of septic shock is associated with higher in-hospital mortality,0.25,0.75,1,0
+Time of Day and Day of Week Variations in Chest Pain Encounters at the Prehospital Setting,0,1,1,0
+Timing of brain computed tomography and accuracy of outcome prediction after cardiac arrest,0.166666667,0.833333333,0,1
+Timing of intubation and in-hospital mortality in patients with coronavirus disease 2019,0.25,0.75,0,1
+Tocilizumab for treatment of patients with severe COVID-19: A retrospective cohort study. EClinicalMedicine. 2020; 24: 100418,1,0,0,1
+Tocilizumab for treatment of patients with severe COVID19: A retrospective cohort study. EClinicalMedicine 2020,1,0,0,1
+Tocilizumab for treatment of patients with severe COVID‚Äì19: A retrospective cohort study,0.6,0.4,0,1
+Total Parenteral Nutrition in the ICU: The Mount Sinai Hospital Experience,0.75,0.25,0,1
+Towards Understanding Pen Movement Contributions to Clock Drawing Cluster Classifications,0.666666667,0.333333333,0,1
+Towards Understanding Preoperative Cognitive Characteristics: TAVR Patients Show Unique Clock Drawing Patterns Consistent with Executive Dysfunction,0.6,0.4,0,1
+Tracheal intubation in traumatic brain injury: a multicentre prospective observational study,0.428571429,0.571428571,0,1
+Tracheostomy for coronavirus disease 2019 patients: maintaining the standard of care,0.5,0.5,0,1
+Tracheostomy protocol: experience with development and potential utility,0.75,0.25,0,1
+Tracheostomy timing and outcomes in patients with COVID-19 pneumonia,0.4,0.6,0,1
+Transaminases are potential biomarkers of disease severity in COVID-19 patients: A single-center experience,0.571428571,0.428571429,0,1
+Transthoracic right heart echocardiography for the intensivist,0.2,0.8,1,0
+Trauma patients warrant upper and lower extremity venous duplex ultrasound surveillance,0.666666667,0.333333333,0,1
+Trauma registries as a potential source of border epidemiology work group indicator data,0,1,0,1
+Traumatic brain injury does not disrupt costimulatory blockade-induced immunological tolerance to glial-restricted progenitor allografts,0.375,0.625,0,1
+"Traumatic brain injury: integrated approaches to improve prevention, clinical care, and research",0.495652174,0.504347826,0,1
+Treading lightly in a pandemic:# Zentensivist reflections on COVID-19,0.5,0.5,1,0
+Trends in ICU Quality After Implementation of an Electronic Health Record,0.666666667,0.333333333,0,1
+"ULTRASOUND GUIDED AXILLARY ARTERY CATHETERIZATION: EFFECT ON THE NUMBER OF ATTEMPTS, TIME OF THE PROCEDURE, AND REDUCTION OF COMPLICATIONS.: 212-S",0.5,0.5,0,1
+UTILIZATION OF ELECTRONIC HEALTH RECORD TO IMPROVE MOBILITY IN A SURGICAL ICU,0.5,0.5,0,1
+Ultrahigh 6D-brightness electron beams for the light sources of the next generation,0.5,0.5,1,0
+Ultrahigh brightness beams from plasma photoguns,1,0,1,0
+Ultrasensitive gene fusion detection reveals fusion variant associated tumor heterogeneity,0.266666667,0.733333333,1,0
+"Uncovering and mitigating bias in large, automated MRI analyses of brain development",0.5,0.5,0,1
+Understanding The Demographic and Clinical Correlates of Quantitative Repolarization Parameters in Patients with Cardiovascular Risk Factors,0.2,0.8,1,0
+Understanding Ventilator Graphics,0.5,0.5,0,1
+Unexpected Deaths of Critically Ill Surgical Patients Following Surgical ICU Discharge: A Six-Year Retrospective Analysis,0.666666667,0.333333333,0,1
+Unit-based research in critical care nursing,0.5,0.5,1,0
+"University of Kentucky CRRT Quality Assurance Group: Development, implementation and outcomes of a quality assurance system for the provision of continuous renal replacement ‚Ä¶",1,0,1,0
+Unsupervised Machine Learning Unveil Easily Identifiable Subphenotypes of COVID-19 With Differing Disease Trajectories,0.75,0.25,0,1
+Unsupervised machine learning identifies symptoms of indigestion as a predictor of acute decompensation and adverse cardiac events in patients with heart failure presenting to ‚Ä¶,0.2,0.8,1,0
+Updated nomenclature of delirium and acute encephalopathy: statement of ten Societies,0.416666667,0.583333333,0,1
+Use of Airway Pressure Release Ventilation in Patients With Acute Respiratory Failure Due to Coronavirus Disease 2019: Results of a Single-Center Randomized Controlled Trial,0,1,0,1
+Use of Statins Among Patients Taking Levothyroxine: An Observational Drug Utilization Study Across Sites,0.5,0.5,0,1
+Use of airway pressure release ventilation in patients with acute respiratory failure due to COVID-19: results of a single-center randomized controlled trial,0.6,0.4,0,1
+Use of airway sensor improves volume accuracy with mid-frequency ventilation,0.916666667,0.083333333,0,1
+Use of echocardiography and modalities of patient monitoring of trauma patients,0.75,0.25,0,1
+Using Age as a Prognostic Factor for Short-term Survival Improves Life Support Allocation Under Crisis Standards of Care,1,0,0,1
+Using Predictive Machine Learning Modeling for the Nursing Triage of Acute Chest Pain at the Emergency Department,0,1,1,0
+Using Weakly Supervised Machine Learning to Label Atrial Fibrillation in Real-World Intensive Care Unit Telemetry Data,0.2,0.8,1,0
+Using photoplethysmography data to estimate heart rate variability and its association with organ dysfunction in pediatric oncology patients,0,1,0,1
+Using what you get: dynamic physiologic signatures of critical illness,0,1,1,0
+Utilidad de la telemedicina en las enfermedades respiratorias,0,1,0,1
+Utility of empirical models of hemorrhage in detecting and quantifying bleeding,0.4,0.6,1,0
+Utility of telemedicine in respiratory diseases,0,1,0,1
+Utility of ultrasound versus landmark-guided axillary artery cannulation for hemodynamic monitoring in the intensive care unit,0.5,0.5,0,1
+Utilization of mechanical power and associations with clinical outcomes in brain injured patients: a secondary analysis of the extubation strategies in neuro-intensive care ‚Ä¶,0.571428571,0.428571429,0,1
+VENTILATOR MODE CHANGES IN TRAUMA PATIENTS: 312,0,1,0,1
+Validation of a web-based platform for online training in point-of-care diaphragm ultrasound,0.555555556,0.444444444,1,0
+Value Of Skeletal Muscle Oxygenation To Predict Vasopressin Response In Patients With Septic Shock,0.333333333,0.666666667,0,1
+Variation in general supportive and preventive intensive care management of traumatic brain injury: a survey in 66 neurotrauma centers participating in the Collaborative ‚Ä¶,0.5,0.5,0,1
+Variation in monitoring and treatment policies for intracranial hypertension in traumatic brain injury: a survey in 66 neurotrauma centers participating in the CENTER-TBI study,0.428571429,0.571428571,0,1
+Variation in neurosurgical management of traumatic brain injury: a survey in 68 centers participating in the CENTER-TBI study,0.333333333,0.666666667,0,1
+Variation in structure and process of care in traumatic brain injury: provider profiles of European Neurotrauma Centers participating in the CENTER-TBI study,0.666666667,0.333333333,0,1
+Variation in the practice of tracheal intubation in Europe after traumatic brain injury: a prospective cohort study,0.992753623,0.007246377,0,1
+Vascular Space Occupancy (VASO) MRI Demonstrates Changes in Cerebral Blood Volume in Internal Carotid Artery Stenosis Patients After Carotid Revascularization,1,0,0,1
+Vascular space occupancy (VASO) cerebral blood volume‚Äêweighted MRI identifies hemodynamic impairment in patients with carotid artery disease,0,1,0,1
+Vasculopathy and increased vascular congestion in fatal COVID-19 and acute respiratory distress syndrome,0.428571429,0.571428571,0,1
+Ventilation Strategies in Simulated Obstructive Lung Disease,1,0,0,1
+Ventilator control system utilizing a mid-frequency ventilation pattern,0,1,0,1
+Vessel-specific ECG leads as a novel strategy for myocardial ischemia detection in patients with suspected acute coronary syndrome,0.285714286,0.714285714,1,0
+Village mentoring and hive learning: The MIT Critical Data experience,1,0,1,0
+Visualizing activation and recovery pathways as a novel approach for myocardial ischemia detection on prehospital 12-lead ECGs,0.25,0.75,1,0
+Vitamin D deficiency in patients with neuromuscular diseases with chronic respiratory failure,0,1,0,1
+WJCCM,0.967741935,0.032258065,0,1
+"WW domain-containing proteins YAP and TAZ in the hippo pathway as key regulators in stemness maintenance, tissue homeostasis, and tumorigenesis",0.166666667,0.833333333,1,0
+WWOX Possesses N-Terminal Cell Surface-Exposed Epitopes WWOX7-21 and WWOX7-11 for Signaling Cancer Growth Suppression and Prevention In Vivo,0.25,0.75,1,0
+Weakness in the ICU: a call to action,0,1,0,1
+West Nile Virus Infection Presenting as Acute Symmetric Flaccid Paralysis,1,0,1,0
+What is the Best Mode of Mechanical Ventilation?,0,1,0,1
+White Blood Cell Population Data Improves Identification of Sepsis in Hospitalized Adults: A Retrospective Cohort Study,1,0,0,1
+White matter changes in comatose survivors of anoxic ischemic encephalopathy and traumatic brain injury: comparative diffusion-tensor imaging study,0.285714286,0.714285714,0,1
+White matter structures associated with loneliness in young adults,0.5625,0.4375,0,1
+Whole-Proteome Analysis of Craniosynostotic Tissue Suggests a Link Between Inflammatory Signaling and Premature Suture Fusion,0.25,0.75,0,1
+Whole-Proteome Analysis of Human Craniosynostotic Tissue Suggests a Link between Inflammatory Signaling and Osteoclast Activation in Human Cranial Suture Patency,0.333333333,0.666666667,0,1
+Wide QRS Complexes Following Ablation for Reentrant Tachycardia,1,0,1,0
+Widened QRS-T angle on the presenting 12-lead ECG indicates non-ST elevation myocardial infarction in patients with chest pain,0.25,0.75,1,0
+Work of breathing in adaptive pressure control continuous mandatory ventilation,0,1,0,1
+YUCATAN MINIATURE SWINE IMAGING MODEL OF NON-IMPACT BLAST TRAUMATIC BRAIN INJURY (PreVENT II),0.666666667,0.333333333,0,1
+You are here: Home/Cleveland Clinic Noninvasive Positive Pressure Support Noninvasive Positive Pressure Support,0,1,0,1
+Your neighborhood matters: A machine‚Äêlearning approach to the geospatial and social determinants of health in 9‚Äê1‚Äê1 activated chest pain,0.333333333,0.666666667,1,0
+Youth Team Sports Participation Associates With Reduced Dimensional Psychopathology Through Interaction With Biological Risk Factors,0.5,0.5,0,1
+Z cells activated by zinc finger-like protein and uses thereof in cancer treatment,0.25,0.75,1,0
+ZOOper scanners do not exist! Veterinarian imaging modalities are not an option for the morbidly obese,1,0,0,1
+"Zfra activates memory Hyal-2+ CD3âˆ’ CD19âˆ’ spleen cells to block cancer growth, stemness, and metastasis in vivo",0.2,0.8,1,0
+Zinc finger antiviral protein inhibits coxsackievirus B3 virus replication and protects against viral myocarditis,0.375,0.625,1,0
+eARDS: A multi-center validation of an interpretable machine learning algorithm of early onset Acute Respiratory Distress Syndrome (ARDS) among critically ill adults with COVID-19,0.5,0.5,1,0
+eMedicine Specialties> Emergency Medicine> Obstetrics & Gynecology,1,0,1,0
+on behalf of the American Heart Association Physical Activity Committee of the Council on Lifestyle and Cardiometabolic Health; Council on Cardiovascular and Stroke Nursing ‚Ä¶,1,0,1,0
+patient perception of fall risk in the acute care setting,0.6,0.4,0,1
+¬ø C√≥mo debe tratarse el ictus isqu√©mico agudo en la unidad de cuidados intensivos?,0,1,0,1
+‚ÄúJust Ask‚Äù for the ABCDEFG Campaign,0.5,0.5,0,1
+‚ÄúSacred pause‚Äù in the ICU: evaluation of a ritual and intervention to lower distress and burnout,0,1,0,1
+„Éï„Çß„É≠„Éº (Â•®Â≠¶ÈáëÁµ¶Ë≤ªÁâπÂà•Á†îÁ©∂Âì°) ÊúüÈñì‰∏≠„Å´Ë°å„ÅÜÁ†îÁ©∂„Å´„Å§„ÅÑ„Å¶ ÂçÅÊàí,0,1,0,1
+C√≠len√° detekce hospitalizaƒçn√≠ho AKI,,,0,1
+Percutaneous Tracheostomy,,,0,1
+Respiratory Monitoring in Low-Intensity Settings,,,0,1
+Unexpected Deaths Following Surgical Intensive Care Unit Discharge: A Six-Year Controlled Analysis,,,0,1
